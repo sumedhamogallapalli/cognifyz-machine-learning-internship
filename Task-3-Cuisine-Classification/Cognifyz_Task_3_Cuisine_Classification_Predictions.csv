@@ -1,0 +1,1791 @@
+Cuisines,Primary Cuisine,City,Locality,Price range,Predicted Cuisine,Correct
+"Japanese, Steak, Sushi",Japanese,Albany,Albany,3,Seafood,False
+Beverages,Beverages,Noida,Sector 41,1,Beverages,True
+North Indian,North Indian,New Delhi,"Jaypee Vasant Continental, Vasant Vihar",4,Finger Food,False
+Ice Cream,Ice Cream,New Delhi,Green Park,1,Biryani,False
+"Pizza, Fast Food",Pizza,New Delhi,Shahdara,1,Mithai,False
+North Indian,North Indian,Gurgaon,"Vyapar Kendra, Sushant Lok",1,Burger,False
+Chinese,Chinese,New Delhi,Civil Lines,1,Mughlai,False
+"Chinese, Fast Food",Chinese,New Delhi,Kirti Nagar,2,Pizza,False
+"North Indian, Chinese",North Indian,New Delhi,Gujranwala Town,2,Mughlai,False
+"Pizza, Fast Food",Pizza,New Delhi,Karol Bagh,2,South Indian,False
+North Indian,North Indian,Gurgaon,Old Railway Road,2,Burger,False
+"Chinese, North Indian",Chinese,New Delhi,South Extension 1,1,Beverages,False
+Fast Food,Fast Food,Noida,"Logix City Centre, Sector 32, Noida",1,Beverages,False
+"Chinese, Bakery",Chinese,New Delhi,Nangloi,1,Mithai,False
+"Mughlai, North Indian",Mughlai,New Delhi,Lawrence Road,2,Pizza,False
+"Bakery, Chinese, Fast Food",Bakery,New Delhi,Rohini,1,Street Food,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Punjabi Bagh,2,Healthy Food,False
+Fast Food,Fast Food,New Delhi,Palam,1,Street Food,False
+"North Indian, Chinese",North Indian,New Delhi,Vivek Vihar,1,Bakery,False
+"Pizza, Fast Food",Pizza,New Delhi,Shahdara,1,Mithai,False
+"North Indian, Chinese",North Indian,New Delhi,Sarita Vihar,1,Mithai,False
+"North Indian, Chinese, Mughlai",North Indian,New Delhi,Lodhi Colony,2,American,False
+"American, BBQ",American,Des Moines,Kingman Place Historic District,2,American,True
+"Fast Food, Italian, North Indian, Chinese",Fast Food,New Delhi,Kalkaji,2,Biryani,False
+"Cafe, Belgian",Cafe,Gurgaon,"Cross Point Mall, DLF Phase 4",3,Finger Food,False
+"South Indian, North Indian, Chinese, Mughlai",South Indian,New Delhi,India Gate,1,South Indian,True
+"Burger, Fast Food",Burger,New Delhi,Vijay Nagar,1,Fast Food,False
+"Fast Food, North Indian",Fast Food,New Delhi,Rajinder Nagar,1,Ice Cream,False
+"North Indian, Continental, Italian, Thai, Chinese",North Indian,New Delhi,Punjabi Bagh,3,Continental,False
+"Pizza, Fast Food",Pizza,New Delhi,Rajouri Garden,2,Burger,False
+"Pizza, Italian",Pizza,New Delhi,Tagore Garden,1,Fast Food,False
+North Indian,North Indian,New Delhi,Alaknanda,1,Raw Meats,False
+North Indian,North Indian,New Delhi,Paharganj,2,Finger Food,False
+Bakery,Bakery,New Delhi,Model Town 3,1,Street Food,False
+"North Indian, Chinese, Fast Food",North Indian,Noida,Sector 44,2,North Indian,True
+"Continental, North Indian",Continental,New Delhi,Rajouri Garden,3,Continental,True
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Karkardooma,2,North Indian,True
+Beverages,Beverages,New Delhi,Model Town 2,1,Street Food,False
+Cafe,Cafe,New Delhi,Daryaganj,1,Mughlai,False
+"Burger, Pizza, Sandwich",Burger,Pocatello,Pocatello,1,Mexican,False
+Street Food,Street Food,New Delhi,Pandav Nagar,1,Beverages,False
+"Burger, Fast Food",Burger,Gurgaon,Sector 45,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,New Delhi,"Vasant Square Mall, Vasant Kunj",2,American,False
+"Cafe, Bakery",Cafe,Noida,Sector 110,2,Biryani,False
+Street Food,Street Food,New Delhi,Kamla Nagar,1,Beverages,False
+North Indian,North Indian,New Delhi,Geeta Colony,2,Seafood,False
+"Continental, South Indian",Continental,Mysore,Vijay Nagar,2,Cafe,False
+"Cafe, Italian",Cafe,New Delhi,Paharganj,2,Finger Food,False
+"Ice Cream, Desserts",Ice Cream,Gurgaon,"Central Plaza Mall, Golf Course Road",1,Healthy Food,False
+Fast Food,Fast Food,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",2,Healthy Food,False
+"Fast Food, Burger",Fast Food,New Delhi,Rajouri Garden,2,Healthy Food,False
+Chinese,Chinese,Mandaluyong City,"SM Megamall, Ortigas, Mandaluyong City",3,Japanese,False
+"Chinese, North Indian",Chinese,New Delhi,Moti Nagar,2,Seafood,False
+"North Indian, Mughlai, Chinese",North Indian,Gurgaon,DLF Phase 3,2,Healthy Food,False
+"Continental, Italian, North Indian",Continental,New Delhi,Lado Sarai,4,Finger Food,False
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,East Patel Nagar,2,Pizza,False
+"Mithai, North Indian, South Indian, Chinese, Bakery",Mithai,New Delhi,Kirti Nagar,1,Street Food,False
+"Italian, Pizza, Lebanese",Italian,Gurgaon,"Central Plaza Mall, Golf Course Road",2,Biryani,False
+"North Indian, Chinese",North Indian,Noida,Sector 132,1,Beverages,False
+"Biryani, Mughlai",Biryani,New Delhi,Civil Lines,1,Mughlai,False
+"Italian, Pizza, Fast Food",Italian,New Delhi,Delhi University-GTB Nagar,3,Finger Food,False
+Mexican,Mexican,New Delhi,Khan Market,3,Italian,False
+Cafe,Cafe,New Delhi,Vasant Kunj,3,American,False
+"Pizza, Fast Food",Pizza,Vizag,Dwaraka Nagar,2,Pizza,True
+"Chinese, North Indian",Chinese,New Delhi,Vasundhara Enclave,1,Biryani,False
+"Biryani, Mughlai",Biryani,Noida,"Supertech Shopprix Mall, Sector 61",2,American,False
+"North Indian, Mughlai",North Indian,Noida,"DLF Mall of India, Sector 18,  Noida",3,Asian,False
+"North Indian, Mughlai",North Indian,New Delhi,Kailash Colony,1,Raw Meats,False
+Chinese,Chinese,New Delhi,Shalimar Bagh,1,Desserts,False
+North Indian,North Indian,New Delhi,"D Mall, Netaji Subhash Place",1,Fast Food,False
+"Chinese, South Indian",Chinese,New Delhi,Geeta Colony,2,Seafood,False
+"Italian, Pizza",Italian,New Delhi,Laxmi Nagar,2,Pizza,False
+"North Indian, Mughlai",North Indian,Faridabad,"Crown Plaza Mall, Sector 15, Faridabad",3,Finger Food,False
+"American, Pizza, Bar Food",American,Des Moines,Downtown,3,Asian,False
+"Mughlai, Pakistani, North Indian",Mughlai,Gurgaon,MG Road,3,Japanese,False
+North Indian,North Indian,New Delhi,Nehru Place,1,South Indian,False
+Bakery,Bakery,Gurgaon,DLF Phase 1,2,Biryani,False
+"North Indian, Chinese",North Indian,Noida,Sector 15,1,Bakery,False
+"North Indian, Chinese",North Indian,Kanpur,Hotel Royal Cliff,4,Seafood,False
+"South Indian, North Indian, Chinese",South Indian,New Delhi,Nangloi,1,Mithai,False
+"Burger, Desserts, Fast Food",Burger,Ghaziabad,"Shipra Mall, Indirapuram",2,Burger,True
+"North Indian, South Indian, Chinese, Street Food, Mithai",North Indian,New Delhi,Barakhamba Road,1,Bakery,False
+"Japanese, Sushi",Japanese,London,Mayfair,4,Indian,False
+North Indian,North Indian,New Delhi,Mukherjee Nagar,1,Beverages,False
+"Fast Food, North Indian, South Indian",Fast Food,Noida,Sector 72,1,Raw Meats,False
+"Chinese, North Indian, South Indian, Healthy Food",Chinese,Gurgaon,Sector 56,1,Raw Meats,False
+"Pizza, Fast Food",Pizza,New Delhi,Nehru Place,2,South Indian,False
+"North Indian, Chinese",North Indian,New Delhi,Majnu ka Tila,1,Ice Cream,False
+"Asian, Vietnamese",Asian,Pensacola,Pensacola,1,Burger,False
+Mughlai,Mughlai,New Delhi,Vasant Vihar,3,Finger Food,False
+Cafe,Cafe,Singapore,"Lavender, Kallang",3,American,False
+North Indian,North Indian,New Delhi,Shalimar Bagh,2,Pizza,False
+North Indian,North Indian,New Delhi,Mukherjee Nagar,2,Mughlai,False
+North Indian,North Indian,Noida,Sector 41,1,Biryani,False
+"Mithai, Street Food",Mithai,New Delhi,Tilak Nagar,1,Street Food,False
+North Indian,North Indian,New Delhi,Pandara Road Market,3,Ice Cream,False
+"Chinese, Japanese",Chinese,New Delhi,Defence Colony,3,Continental,False
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,Paschim Vihar,2,Pizza,False
+"North Indian, Mughlai",North Indian,New Delhi,Sainik Farms,2,Healthy Food,False
+Mithai,Mithai,New Delhi,Najafgarh,1,Mithai,True
+North Indian,North Indian,Gurgaon,Sadar Bazar,1,Mithai,False
+"Bakery, Desserts",Bakery,New Delhi,IP Extension,1,Mithai,False
+"North Indian, Chinese",North Indian,New Delhi,Chittaranjan Park,2,Mughlai,False
+"Bakery, Desserts",Bakery,Gurgaon,Sector 43,1,Raw Meats,False
+"Beverages, Salad",Beverages,Gurgaon,"DLF Galleria, DLF Phase 4",1,Burger,False
+"Fast Food, North Indian",Fast Food,New Delhi,Punjabi Bagh,1,Desserts,False
+Fast Food,Fast Food,Noida,"Spice World Mall, Sector 25",1,Ice Cream,False
+"Chinese, North Indian",Chinese,New Delhi,Lajpat Nagar 1,2,Mughlai,False
+"Chinese, Japanese, Thai, Malaysian, Vietnamese, Asian",Chinese,New Delhi,"Ambience Mall, Vasant Kunj",4,Finger Food,False
+Biryani,Biryani,Noida,Sector 12,1,Mithai,False
+"North Indian, Mughlai, Chinese",North Indian,Noida,Sector 65,1,South Indian,False
+"Mughlai, North Indian",Mughlai,New Delhi,Nizamuddin,2,Mughlai,True
+North Indian,North Indian,Faridabad,Sector 21,1,Street Food,False
+North Indian,North Indian,Gurgaon,DLF Phase 4,2,Healthy Food,False
+"Italian, Pizza",Italian,Monroe,Monroe,2,Asian,False
+"North Indian, Chinese",North Indian,New Delhi,Gujranwala Town,1,Beverages,False
+"Continental, Fast Food, North Indian, Asian",Continental,New Delhi,Rajouri Garden,3,Continental,True
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,East of Kailash,1,Raw Meats,False
+American,American,Noida,Sector 33,1,Street Food,False
+"Italian, Pizza, Fast Food",Italian,New Delhi,"TDI Mall, Rajouri Garden",3,Burger,False
+"North Indian, Fast Food, Chinese, Japanese, Asian, Italian",North Indian,New Delhi,Paharganj,2,Finger Food,False
+"Bakery, Desserts",Bakery,New Delhi,South Extension 2,1,Biryani,False
+Italian,Italian,Chennai,Kilpauk,1,Biryani,False
+"Chinese, North Indian",Chinese,New Delhi,East of Kailash,1,Raw Meats,False
+"Bakery, Fast Food",Bakery,Noida,Sector 44,1,Chinese,False
+"North Indian, Chinese, Cafe",North Indian,New Delhi,Delhi University-GTB Nagar,2,Cafe,False
+"American, Italian",American,Noida,Sector 18,3,Finger Food,False
+"North Indian, Chinese",North Indian,New Delhi,Mayur Vihar Phase 2,3,Mexican,False
+"Continental, Fast Food, Tea",Continental,Nagpur,Bajaj Nagar,1,Fast Food,False
+"Fast Food, Beverages",Fast Food,Gurgaon,DLF Phase 3,2,Biryani,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,"City Centre Mall, Rohini",3,Finger Food,False
+"Finger Food, Continental, Italian, Chinese",Finger Food,New Delhi,"The Suryaa New Delhi, New Friends Colony",4,Finger Food,True
+"Italian, Pizza, Sandwich",Italian,Pensacola,Pensacola,1,Burger,False
+"Finger Food, North Indian",Finger Food,New Delhi,Janpath,3,Finger Food,True
+North Indian,North Indian,New Delhi,Mayur Vihar Phase 3,1,Street Food,False
+Mithai,Mithai,New Delhi,Nangloi,1,Mithai,True
+"Mughlai, North Indian",Mughlai,New Delhi,Dilshad Garden,2,Pizza,False
+"North Indian, Chinese",North Indian,New Delhi,Laxmi Nagar,2,Pizza,False
+"Chinese, Canadian",Chinese,Consort,Consort,2,Asian,False
+North Indian,North Indian,New Delhi,Dilshad Garden,2,Pizza,False
+"Street Food, Fast Food, Chinese, South Indian, North Indian",Street Food,New Delhi,Mayur Vihar Phase 1,1,Bakery,False
+"American, Fast Food, Salad, Healthy Food",American,Gurgaon,"Hong Kong Bazaar Mall, Sector 57, Gurgaon",2,South Indian,False
+"Bakery, Desserts, Ice Cream",Bakery,New Delhi,Greater Kailash (GK) 2,1,Desserts,False
+"Continental, Cafe",Continental,New Delhi,Hauz Khas,3,Finger Food,False
+Bakery,Bakery,New Delhi,Munirka,1,Raw Meats,False
+"North Indian, Chinese",North Indian,New Delhi,Rajinder Nagar,2,Burger,False
+Chinese,Chinese,New Delhi,Safdarjung,2,Pizza,False
+North Indian,North Indian,New Delhi,Uttam Nagar,1,Fast Food,False
+"Indian, Street Food",Indian,Edinburgh,Tollcross,2,Indian,True
+"European, Asian, Indian",European,Pasay City,"Sofitel Philippine Plaza Manila, Pasay City",4,Finger Food,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,New Delhi,Alaknanda,1,Raw Meats,True
+"North Indian, Fast Food",North Indian,Gurgaon,Sector 23,2,Biryani,False
+North Indian,North Indian,New Delhi,Hauz Khas,2,American,False
+Chinese,Chinese,Noida,Sector 62,1,Raw Meats,False
+"Chinese, North Indian",Chinese,Gurgaon,Sector 39,2,Cafe,False
+Cafe,Cafe,New Delhi,Hauz Khas,1,South Indian,False
+North Indian,North Indian,New Delhi,East of Kailash,1,Raw Meats,False
+"North Indian, Chinese",North Indian,New Delhi,Satyaniketan,2,Cafe,False
+Mithai,Mithai,Noida,Sector 28,1,Raw Meats,False
+North Indian,North Indian,New Delhi,Karol Bagh,2,South Indian,False
+"North Indian, Chinese, Fast Food",North Indian,Noida,Sector 44,2,North Indian,True
+North Indian,North Indian,New Delhi,New Friends Colony,1,Raw Meats,False
+Street Food,Street Food,Gurgaon,"Vyapar Kendra, Sushant Lok",1,Burger,False
+"Chinese, North Indian",Chinese,Varanasi,Sigra,1,Street Food,False
+Bakery,Bakery,New Delhi,Janpath,1,Street Food,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,Noida,Sector 41,1,Beverages,False
+"Bakery, Desserts",Bakery,Noida,Sector 49,2,North Indian,False
+"North Indian, Mughlai",North Indian,New Delhi,Paharganj,2,North Indian,True
+"Desserts, Ice Cream",Desserts,Noida,"The Great India Place, Sector 38",1,Ice Cream,False
+South Indian,South Indian,Varanasi,Bhelupur,2,Beverages,False
+"North Indian, South Indian, Chinese",North Indian,Noida,Sector 63,2,North Indian,True
+North Indian,North Indian,New Delhi,Jangpura,2,Healthy Food,False
+"Mithai, Street Food",Mithai,New Delhi,Chawri Bazar,1,Street Food,False
+"Chinese, South Indian, Fast Food",Chinese,New Delhi,Greater Kailash (GK) 1,1,Desserts,False
+South Indian,South Indian,New Delhi,Bhikaji Cama Place,1,South Indian,True
+"Chinese, Mughlai, North Indian",Chinese,Gurgaon,Sector 56,2,North Indian,False
+Bakery,Bakery,New Delhi,East Patel Nagar,1,Raw Meats,False
+South Indian,South Indian,New Delhi,Tilak Nagar,1,Street Food,False
+"Mithai, Street Food",Mithai,Faridabad,Suraj Kund,1,Mithai,True
+"Cafe, Italian, Desserts",Cafe,Lucknow,Gomti Nagar,2,Cafe,True
+"Chinese, Asian",Chinese,Gurgaon,Sohna Road,1,Healthy Food,False
+Chinese,Chinese,New Delhi,South Extension 2,2,Pizza,False
+"Chinese, Continental, North Indian, Mexican",Chinese,Gurgaon,Sector 29,4,Continental,False
+Cafe,Cafe,New Delhi,Janakpuri,1,Bakery,False
+"North Indian, Chinese, Street Food",North Indian,New Delhi,Netaji Subhash Place,1,Fast Food,False
+Bakery,Bakery,New Delhi,Hauz Khas,1,Ice Cream,False
+"Bakery, Desserts",Bakery,Gurgaon,DLF Phase 5,1,Healthy Food,False
+Bakery,Bakery,Noida,Sector 47,2,Bakery,True
+North Indian,North Indian,Gurgaon,Old Railway Road,2,Burger,False
+Healthy Food,Healthy Food,New Delhi,Okhla Phase 2,2,Mughlai,False
+"Desserts, Bakery",Desserts,New Delhi,"The Imperial, Janpath",2,Cafe,False
+Italian,Italian,Gurgaon,Golf Course Road,4,Healthy Food,False
+"Continental, Chinese, Japanese, North Indian, Thai",Continental,New Delhi,"Hotel The Royal Plaza, Janpath",4,Seafood,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,Ashok Vihar Phase 1,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,New Delhi,Connaught Place,3,Italian,False
+Street Food,Street Food,New Delhi,Rajendra Place,1,Street Food,True
+Asian,Asian,New Delhi,Sainik Farms,2,Pizza,False
+"Chinese, Assamese",Chinese,Gurgaon,"Vyapar Kendra, Sushant Lok",2,Burger,False
+"Street Food, Mithai",Street Food,New Delhi,Trilokpuri,1,Mithai,False
+Chinese,Chinese,New Delhi,Delhi University-GTB Nagar,1,Beverages,False
+"Chinese, South Indian, North Indian",Chinese,New Delhi,Uttam Nagar,1,Fast Food,False
+"North Indian, Chinese",North Indian,Gurgaon,Sector 31,2,Healthy Food,False
+Bakery,Bakery,New Delhi,Kalkaji,1,Street Food,False
+"Street Food, Fast Food",Street Food,New Delhi,Malviya Nagar,1,Healthy Food,False
+"North Indian, Fast Food, Italian, Chinese, Cafe",North Indian,New Delhi,Rajouri Garden,3,Continental,False
+"North Indian, Mughlai, Biryani",North Indian,Gurgaon,"Supermart 1, DLF Phase 4",2,Healthy Food,False
+"Chinese, Thai",Chinese,New Delhi,Connaught Place,3,Asian,False
+"North Indian, Biryani, Chinese, Fast Food",North Indian,New Delhi,R K Puram,2,Biryani,False
+North Indian,North Indian,Faridabad,Sector 17,1,Raw Meats,False
+"Continental, North Indian, Chinese",Continental,New Delhi,Rajouri Garden,3,Continental,True
+"Raw Meats, North Indian, Fast Food",Raw Meats,New Delhi,Lodhi Colony,1,Mithai,False
+Cafe,Cafe,New Delhi,Shahpur Jat,3,Asian,False
+"Fast Food, Street Food",Fast Food,New Delhi,Lawrence Road,1,Mithai,False
+"Fast Food, Chinese, North Indian",Fast Food,Noida,Sector 18,1,Desserts,False
+Mughlai,Mughlai,New Delhi,Jama Masjid,1,Mughlai,True
+Cafe,Cafe,New Delhi,East Patel Nagar,2,Pizza,False
+North Indian,North Indian,New Delhi,"Dilli Haat, INA",1,Desserts,False
+Street Food,Street Food,New Delhi,Uttam Nagar,1,Street Food,True
+North Indian,North Indian,New Delhi,Daryaganj,1,Mughlai,False
+Cafe,Cafe,Bras�_lia,Asa Norte,1,Japanese,False
+"Pizza, Fast Food",Pizza,New Delhi,Palam,2,Pizza,True
+Cafe,Cafe,New Delhi,"Pacific Mall, Tagore Garden",2,Burger,False
+"Cafe, Chinese",Cafe,New Delhi,Malviya Nagar,1,Raw Meats,False
+"Chinese, Pizza",Chinese,Des Moines,Downtown,2,Asian,False
+"North Indian, Italian, Chinese, Thai",North Indian,New Delhi,Netaji Subhash Place,3,Finger Food,False
+"North Indian, Chinese",North Indian,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+"South Indian, North Indian",South Indian,New Delhi,Prashant Vihar,1,Beverages,False
+Chinese,Chinese,Noida,Sector 53,2,North Indian,False
+"Japanese, Sushi",Japanese,Dalton,Dalton,3,American,False
+North Indian,North Indian,Gurgaon,Sector 29,3,Mexican,False
+North Indian,North Indian,New Delhi,Delhi University-GTB Nagar,1,Beverages,False
+"Finger Food, North Indian, Italian, European, Continental",Finger Food,Gurgaon,"DLF Galleria, DLF Phase 4",4,Finger Food,True
+"Burger, Desserts, Fast Food",Burger,New Delhi,Malviya Nagar,2,Healthy Food,False
+"South Indian, North Indian, Chinese",South Indian,New Delhi,Adchini,2,South Indian,True
+"Continental, North Indian, South Indian",Continental,New Delhi,Mayur Vihar Phase 3,2,Mexican,False
+"Continental, North Indian",Continental,Mohali,Sector 70,2,Burger,False
+"North Indian, South Indian, Chinese, Fast Food",North Indian,New Delhi,Uttam Nagar,1,Street Food,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,Anand Vihar,1,Healthy Food,False
+"Cafe, Italian, Lebanese",Cafe,New Delhi,Nizamuddin,3,Mughlai,False
+"North Indian, Mughlai",North Indian,New Delhi,Punjabi Bagh,2,Healthy Food,False
+"North Indian, Chinese",North Indian,New Delhi,Pitampura,1,Street Food,False
+"North Indian, Mughlai, Chinese",North Indian,Noida,"Ganga Shopping Complex, Sector 29",3,Mexican,False
+"Pizza, Fast Food",Pizza,New Delhi,Dilshad Garden,1,South Indian,False
+Street Food,Street Food,New Delhi,Chawri Bazar,1,Street Food,True
+North Indian,North Indian,New Delhi,Sainik Farms,1,Mithai,False
+"North Indian, Kashmiri, Mughlai",North Indian,New Delhi,"Piccadily Hotel, Janakpuri",4,Finger Food,False
+"North Indian, Chinese",North Indian,New Delhi,Jangpura,1,Healthy Food,False
+"Bakery, Desserts, Fast Food",Bakery,New Delhi,Pitampura,1,Street Food,False
+North Indian,North Indian,Gurgaon,Sector 14,2,Healthy Food,False
+"North Indian, Chinese",North Indian,Bhubaneshwar,Patia,1,Cafe,False
+North Indian,North Indian,Noida,Sector 12,1,Mithai,False
+"Raw Meats, Fast Food",Raw Meats,Noida,"Tulip Mall, Sector 48, Noida",1,Fast Food,False
+"North Indian, Mughlai, Chinese",North Indian,Gurgaon,Sector 7,1,Ice Cream,False
+Burger,Burger,Rio de Janeiro,"Galeria River, Copacabana",3,Beverages,False
+Bakery,Bakery,New Delhi,Rajouri Garden,1,Beverages,False
+North Indian,North Indian,New Delhi,Mahipalpur,2,North Indian,True
+Cafe,Cafe,Noida,"DLF Mall of India, Sector 18,  Noida",2,Burger,False
+"Bakery, Desserts",Bakery,New Delhi,Lajpat Nagar 1,1,Burger,False
+North Indian,North Indian,New Delhi,Subhash Nagar,1,Raw Meats,False
+"North Indian, Chinese",North Indian,New Delhi,Najafgarh,1,Mithai,False
+"American, Fast Food, Salad, Healthy Food",American,Noida,"Spice World Mall, Sector 25",2,Ice Cream,False
+"Chinese, Thai",Chinese,Gurgaon,DLF Phase 3,2,Healthy Food,False
+"Cafe, Chinese, Fast Food",Cafe,Dehradun,Rajpur,3,Cafe,True
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,Chittaranjan Park,2,Mughlai,False
+"North Indian, Mughlai",North Indian,Faridabad,Sector 37,1,Mithai,False
+"North Indian, Chinese, Mughlai",North Indian,New Delhi,Kirti Nagar,3,Finger Food,False
+"South Indian, Chinese",South Indian,New Delhi,Mukherjee Nagar,1,Beverages,False
+Ice Cream,Ice Cream,New Delhi,Greater Kailash (GK) 1,1,Desserts,False
+Fast Food,Fast Food,Gurgaon,"MGF Metropolitan Mall, MG Road",1,Beverages,False
+"American, Southern",American,Savannah,Savannah,3,American,True
+"Continental, Fast Food",Continental,New Delhi,Safdarjung,2,Pizza,False
+"American, Fast Food",American,New Delhi,Rohini,2,Biryani,False
+"Chinese, North Indian",Chinese,New Delhi,Saket,1,Beverages,False
+"North Indian, Chinese",North Indian,New Delhi,Uttam Nagar,1,Street Food,False
+Chinese,Chinese,Patna,Fraser Road Area,3,American,False
+North Indian,North Indian,New Delhi,Paharganj,1,Street Food,False
+Mughlai,Mughlai,New Delhi,Daryaganj,1,Mughlai,True
+"Pizza, Fast Food",Pizza,New Delhi,Paschim Vihar,2,Pizza,True
+"Cafe, American, Tea",Cafe,New Delhi,"The Claridges, Aurangzeb Road",4,European,False
+North Indian,North Indian,Noida,Sector 110,2,Biryani,False
+North Indian,North Indian,New Delhi,Karol Bagh,1,South Indian,False
+North Indian,North Indian,New Delhi,Chander Nagar,1,Street Food,False
+Fast Food,Fast Food,New Delhi,"Worldmark 1, Aerocity",2,Healthy Food,False
+"North Indian, Chinese, South Indian, Fast Food",North Indian,Gurgaon,Palam Vihar,1,Street Food,False
+"Fast Food, Chinese",Fast Food,New Delhi,Naraina,1,Desserts,False
+"Mithai, Street Food",Mithai,New Delhi,Vikaspuri,1,Raw Meats,False
+"American, Fast Food, Salad, Healthy Food",American,New Delhi,Connaught Place,2,Burger,False
+"Desserts, Bakery, Fast Food",Desserts,New Delhi,Kirti Nagar,1,Raw Meats,False
+Chinese,Chinese,New Delhi,Civil Lines,1,Mughlai,False
+"Chinese, North Indian",Chinese,New Delhi,Palam,1,Street Food,False
+"Cafe, Bakery",Cafe,New Delhi,"The Suryaa New Delhi, New Friends Colony",2,Pizza,False
+"North Indian, Mughlai",North Indian,New Delhi,Jama Masjid,1,Mughlai,False
+Chinese,Chinese,New Delhi,Shakarpur,1,South Indian,False
+"North Indian, Italian, Continental",North Indian,New Delhi,Rajinder Nagar,2,Burger,False
+"Desserts, Bakery, Fast Food",Desserts,Noida,Sector 50,2,Biryani,False
+"Bakery, Fast Food",Bakery,New Delhi,Sarojini Nagar,1,Beverages,False
+"Burger, Desserts, Fast Food",Burger,Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",2,American,False
+South Indian,South Indian,Noida,Sector 41,1,Biryani,False
+"Raw Meats, Fast Food, North Indian",Raw Meats,Noida,Sector 110,1,Mithai,False
+Bakery,Bakery,Gurgaon,Sikandarpur,1,Street Food,False
+"Cafe, North Indian, Lebanese, Continental",Cafe,New Delhi,Kalkaji,2,South Indian,False
+"North Indian, Fast Food",North Indian,New Delhi,Shakarpur,1,South Indian,False
+Chinese,Chinese,New Delhi,Jangpura,1,Raw Meats,False
+Fast Food,Fast Food,New Delhi,Pitampura,1,Ice Cream,False
+Cafe,Cafe,Gurgaon,Udyog Vihar,2,Pizza,False
+"Bakery, Desserts",Bakery,Gurgaon,DLF Phase 3,2,Healthy Food,False
+"Fast Food, Burger",Fast Food,Gurgaon,"MGF Metropolis Mall, MG Road",2,Finger Food,False
+Cafe,Cafe,New Delhi,Janakpuri,2,Italian,False
+"North Indian, Chinese, Continental, Desserts, Fast Food, Sandwich",North Indian,Ahmedabad,Gurukul,2,Burger,False
+"American, Southern, Southwestern",American,Athens,Athens,3,American,True
+Fast Food,Fast Food,Noida,"MSX Mall, Greater Noida",1,Ice Cream,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,Rajouri Garden,1,Beverages,False
+Bakery,Bakery,Noida,Sector 18,1,Fast Food,False
+"North Indian, Mughlai",North Indian,New Delhi,Sainik Farms,3,American,False
+Mughlai,Mughlai,New Delhi,Paharganj,1,Street Food,False
+North Indian,North Indian,New Delhi,Sarita Vihar,1,Mithai,False
+North Indian,North Indian,New Delhi,R K Puram,1,South Indian,False
+"Cafe, Continental",Cafe,Puducherry,MG Road,3,Japanese,False
+"North Indian, Mughlai, Chinese, Fast Food",North Indian,Noida,Sector 110,2,Biryani,False
+"Mexican, Italian",Mexican,Indore,Vijay Nagar,2,Cafe,False
+"Mughlai, North Indian",Mughlai,New Delhi,"V3S Mall, Laxmi Nagar",2,Pizza,False
+"North Indian, Continental, Asian",North Indian,New Delhi,"Sangam Courtyard, RK Puram",3,Asian,False
+North Indian,North Indian,New Delhi,Prashant Vihar,1,Beverages,False
+North Indian,North Indian,Gurgaon,DLF Phase 3,2,Healthy Food,False
+"American, Fast Food",American,New Delhi,Greater Kailash (GK) 1,3,Italian,False
+"American, Asian, Burger",American,Rest of Hawaii,Waikiki,3,Asian,False
+"Bakery, Desserts, Fast Food",Bakery,New Delhi,Lodhi Road,1,Mithai,False
+"American, Chinese, Sushi",American,Macon,Warner Robins,2,Mexican,False
+North Indian,North Indian,Noida,Sector 132,1,Beverages,False
+"North Indian, Mughlai, Chinese, Fast Food",North Indian,Noida,Sector 51,2,Mexican,False
+"North Indian, Fast Food",North Indian,New Delhi,Moti Nagar,1,Ice Cream,False
+"Beverages, Fast Food",Beverages,New Delhi,Kamla Nagar,1,Beverages,True
+Cafe,Cafe,New Delhi,Connaught Place,2,Burger,False
+"Ice Cream, Beverages, Fast Food",Ice Cream,Noida,Sector 34,1,Mithai,False
+"North Indian, Seafood",North Indian,Faridabad,Sector 21,2,Asian,False
+North Indian,North Indian,New Delhi,Alaknanda,1,Raw Meats,False
+"Bakery, Desserts",Bakery,New Delhi,"The Lalit New Delhi, Barakhamba Road",2,Finger Food,False
+"North Indian, Chinese",North Indian,Gurgaon,"Hotel Grenville, MG Road",2,Finger Food,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Connaught Place,3,Finger Food,False
+"Fast Food, Chinese",Fast Food,Noida,Sector 21,1,Beverages,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,Malviya Nagar,1,Healthy Food,False
+Street Food,Street Food,New Delhi,Najafgarh,1,Mithai,False
+North Indian,North Indian,New Delhi,Laxmi Nagar,2,Pizza,False
+"European, Lebanese, Mediterranean",European,New Delhi,Lodhi Road,4,Asian,False
+Fast Food,Fast Food,New Delhi,Mukherjee Nagar,1,Beverages,False
+"North Indian, Chinese",North Indian,New Delhi,"Living Style Mall, Jasola",2,Pizza,False
+"Pizza, Fast Food",Pizza,New Delhi,Dilshad Garden,2,Pizza,True
+"Fast Food, North Indian",Fast Food,New Delhi,Vasundhara Enclave,1,Biryani,False
+"Mughlai, North Indian",Mughlai,Gurgaon,"DLF Galleria, DLF Phase 4",2,Burger,False
+"North Indian, Chinese, Street Food",North Indian,Kolkata,Ballygunge,3,European,False
+"Italian, Pizza, Fast Food",Italian,New Delhi,"Ansal Plaza Mall, Khel Gaon Marg",2,Japanese,False
+"Burger, Desserts, Fast Food",Burger,Gurgaon,"Unitech Cyber Park, Sector 39, Gurgaon",2,Cafe,False
+Cafe,Cafe,Noida,"The Great India Place, Sector 38",2,Burger,False
+"North Indian, Continental, Mexican, Italian",North Indian,Ahmedabad,Bodakdev,3,Pizza,False
+"Street Food, Mithai",Street Food,New Delhi,East of Kailash,1,Raw Meats,False
+"Cafe, Continental, Italian, Mexican",Cafe,New Delhi,Shahpur Jat,3,Asian,False
+"Chinese, Cafe, Fast Food",Chinese,New Delhi,East Patel Nagar,2,Pizza,False
+"Street Food, North Indian",Street Food,New Delhi,"Worldmark 1, Aerocity",2,Healthy Food,False
+North Indian,North Indian,Faridabad,Sector 41,2,Biryani,False
+"Mithai, North Indian, South Indian, Chinese, Street Food, Bakery",Mithai,New Delhi,MG Road,1,Raw Meats,False
+North Indian,North Indian,New Delhi,Connaught Place,1,Beverages,False
+"Street Food, Fast Food",Street Food,New Delhi,Shahdara,1,Mithai,False
+"North Indian, Mughlai",North Indian,New Delhi,South Extension 2,2,Pizza,False
+Cafe,Cafe,New Delhi,New Friends Colony,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,Faridabad,Sector 19,2,North Indian,True
+"Pizza, Fast Food",Pizza,New Delhi,Model Town 2,2,Pizza,True
+"Italian, North Indian, Chinese, Mughlai",Italian,New Delhi,Malviya Nagar,2,Healthy Food,False
+"North Indian, Chinese, Bakery",North Indian,New Delhi,Vivek Vihar,1,Bakery,False
+Fast Food,Fast Food,New Delhi,Greater Kailash (GK) 2,1,Desserts,False
+Cafe,Cafe,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",1,Healthy Food,False
+"North Indian, Mughlai",North Indian,New Delhi,Lodhi Road,3,Finger Food,False
+"Fast Food, Biryani",Fast Food,Kochi,Kacheripady,1,Ice Cream,False
+North Indian,North Indian,New Delhi,Jangpura,1,Healthy Food,False
+"Burger, Fast Food",Burger,New Delhi,Netaji Subhash Place,1,Ice Cream,False
+Fast Food,Fast Food,New Delhi,Shalimar Bagh,1,Desserts,False
+"Cafe, Fast Food, Street Food",Cafe,Jaipur,C Scheme,2,Italian,False
+"Mughlai, Afghani",Mughlai,New Delhi,Jangpura,1,Raw Meats,False
+Fast Food,Fast Food,New Delhi,Yusuf Sarai,1,Raw Meats,False
+"North Indian, South Indian, Chinese",North Indian,New Delhi,Mahipalpur,3,Finger Food,False
+North Indian,North Indian,Noida,Sector 27,1,Street Food,False
+"North Indian, Chinese",North Indian,Patna,Sri Krishnapuri,2,American,False
+Indian,Indian,Abu Dhabi,Najda,3,Indian,True
+"North Indian, Mughlai",North Indian,New Delhi,Daryaganj,2,Mughlai,False
+"Fast Food, Chinese",Fast Food,New Delhi,Vasundhara Enclave,1,Biryani,False
+"North Indian, Chinese",North Indian,Noida,Sector 31,1,Raw Meats,False
+"Bakery, Fast Food",Bakery,New Delhi,Greater Kailash (GK) 2,1,Desserts,False
+"Desserts, Street Food",Desserts,New Delhi,Jail Road,1,Ice Cream,False
+North Indian,North Indian,New Delhi,Dilshad Garden,1,South Indian,False
+North Indian,North Indian,New Delhi,Subhash Nagar,1,Raw Meats,False
+"Pizza, Fast Food, Chinese",Pizza,New Delhi,Ashok Vihar Phase 3,2,North Indian,False
+"North Indian, Chinese",North Indian,Gurgaon,Sector 14,1,Beverages,False
+North Indian,North Indian,Gurgaon,Sushant Lok,1,Desserts,False
+Cafe,Cafe,Bhopal,Arera Colony,2,Cafe,True
+Cafe,Cafe,New Delhi,Vikaspuri,1,Raw Meats,False
+"North Indian, Chinese",North Indian,New Delhi,"District Centre, Janakpuri",3,Finger Food,False
+North Indian,North Indian,New Delhi,Karol Bagh,1,South Indian,False
+"Bakery, Desserts, Fast Food",Bakery,Gurgaon,"DLF South Point Mall, Golf Course Road",1,Bakery,True
+"North Indian, Mughlai",North Indian,Noida,Sector 93,1,Burger,False
+South Indian,South Indian,New Delhi,Tagore Garden,1,Fast Food,False
+"North Indian, Mughlai",North Indian,New Delhi,Greater Kailash (GK) 2,3,Finger Food,False
+North Indian,North Indian,New Delhi,Paharganj,2,Finger Food,False
+"North Indian, South Indian, Chinese",North Indian,New Delhi,Lodhi Road,2,Asian,False
+"North Indian, Chinese",North Indian,New Delhi,Jangpura,2,Mughlai,False
+Italian,Italian,Chandigarh,Sector 7,4,Finger Food,False
+"Pizza, Fast Food",Pizza,Noida,"The Great India Place, Sector 38",2,Burger,False
+"American, Fast Food, Salad, Healthy Food",American,New Delhi,Jasola,2,Italian,False
+"North Indian, Chinese, South Indian",North Indian,New Delhi,Okhla Phase 1,1,Bakery,False
+"North Indian, Continental",North Indian,Kolkata,"Mani Square Mall, Kankurgachi",3,Finger Food,False
+Chinese,Chinese,New Delhi,Krishna Nagar,1,Raw Meats,False
+"Cafe, Bakery, Parsi",Cafe,New Delhi,Malviya Nagar,2,Healthy Food,False
+"North Indian, Continental, Chinese",North Indian,Noida,"The Great India Place, Sector 38",4,Finger Food,False
+"Continental, Mexican, North Indian, Chinese",Continental,Jaipur,Vidhyadhar Nagar,2,Burger,False
+"North Indian, Continental, European, American, Mediterranean",North Indian,New Delhi,Rohini,3,Italian,False
+"Chinese, North Indian",Chinese,New Delhi,South Extension 2,4,Finger Food,False
+"North Indian, Chinese",North Indian,New Delhi,Ashok Vihar Phase 1,3,Finger Food,False
+"North Indian, Fast Food, South Indian",North Indian,Gurgaon,Sector 45,1,Raw Meats,False
+"Mughlai, North Indian",Mughlai,New Delhi,Greater Kailash (GK) 1,3,European,False
+"North Indian, Chinese",North Indian,Patna,Lodipur,3,American,False
+"Cafe, Continental",Cafe,Secunderabad,Sainikpuri,2,Finger Food,False
+Burger,Burger,Cedar Rapids/Iowa City,Iowa City,1,American,False
+Fast Food,Fast Food,New Delhi,Gujranwala Town,2,Mughlai,False
+"Pizza, Fast Food",Pizza,New Delhi,Kalkaji,2,Biryani,False
+Burger,Burger,Savannah,Savannah,3,American,False
+"American, Fast Food, Salad, Healthy Food",American,Noida,Sector 18,2,Healthy Food,False
+"Fast Food, Burger",Fast Food,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",2,Healthy Food,False
+Healthy Food,Healthy Food,Gurgaon,DLF Phase 2,1,Beverages,False
+South Indian,South Indian,New Delhi,Greater Kailash (GK) 1,2,Healthy Food,False
+"North Indian, Continental, European, Chinese, Thai",North Indian,New Delhi,"Shangri La's - Eros hotel, Janpath",4,Finger Food,False
+"Fast Food, Burger",Fast Food,Dubai,"Kite Beach, Umm Suqeim",3,Indian,False
+Cafe,Cafe,Gurgaon,Udyog Vihar,1,Desserts,False
+"Fast Food, Chinese",Fast Food,Gurgaon,Old Railway Road,1,Ice Cream,False
+North Indian,North Indian,Gurgaon,DLF Phase 3,1,Healthy Food,False
+"Healthy Food, Beverages",Healthy Food,New Delhi,Connaught Place,2,Burger,False
+"Bakery, Desserts",Bakery,New Delhi,Greater Kailash (GK) 2,1,Desserts,False
+Bakery,Bakery,New Delhi,Okhla Phase 1,1,Bakery,True
+"North Indian, Chinese",North Indian,New Delhi,Malviya Nagar,2,Healthy Food,False
+"Mithai, Street Food",Mithai,New Delhi,Chandni Chowk,1,Street Food,False
+Biryani,Biryani,New Delhi,GTB Nagar,1,Raw Meats,False
+"North Indian, Chinese, Fast Food",North Indian,Noida,Sector 3,2,Biryani,False
+Beverages,Beverages,Noida,Sector 72,1,Raw Meats,False
+Finger Food,Finger Food,New Delhi,"Hyatt Regency, Bhikaji Cama Place",4,Japanese,False
+North Indian,North Indian,New Delhi,Jail Road,1,Mughlai,False
+North Indian,North Indian,Gurgaon,Sikandarpur,1,Street Food,False
+"North Indian, Chinese",North Indian,New Delhi,Mukherjee Nagar,1,Beverages,False
+"North Indian, Continental, Chinese",North Indian,New Delhi,Pitampura,3,Finger Food,False
+North Indian,North Indian,New Delhi,Mehrauli,1,Raw Meats,False
+"Bakery, Fast Food",Bakery,Gurgaon,Sector 15,1,Bakery,True
+"North Indian, Chinese, Continental",North Indian,New Delhi,Rajouri Garden,3,Continental,False
+"Desserts, Ice Cream",Desserts,Faridabad,"Eldeco Station 1 Mall, Sector 12, Faridabad",1,Fast Food,False
+"Fast Food, North Indian",Fast Food,New Delhi,Alaknanda,1,Raw Meats,False
+"North Indian, Continental, Chinese",North Indian,New Delhi,Mayur Vihar Phase 3,2,North Indian,True
+"Fast Food, North Indian",Fast Food,Faridabad,Charmwood Village,1,Fast Food,True
+North Indian,North Indian,New Delhi,Vijay Nagar,1,Fast Food,False
+Street Food,Street Food,New Delhi,Vijay Nagar,1,Fast Food,False
+"North Indian, Chinese",North Indian,Noida,Sector 12,1,Ice Cream,False
+North Indian,North Indian,New Delhi,Nangloi,1,Mithai,False
+"Bakery, Desserts, Fast Food",Bakery,Gurgaon,"Two Horizon Center, Golf Course Road",1,Healthy Food,False
+North Indian,North Indian,New Delhi,Kalkaji,1,Street Food,False
+Biryani,Biryani,New Delhi,Paharganj,1,Street Food,False
+"North Indian, Mughlai, Chinese",North Indian,Gurgaon,"Cyber Greens, DLF Cyber City",2,Burger,False
+"North Indian, Italian",North Indian,Surat,Piplod,3,Italian,False
+"Mithai, North Indian, South Indian, Chinese",Mithai,Gurgaon,Sector 45,1,Ice Cream,False
+North Indian,North Indian,Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",3,American,False
+"Desserts, Beverages",Desserts,Gurgaon,"Cyber Hub, DLF Cyber City",1,Burger,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,New Delhi,Preet Vihar,1,Ice Cream,False
+"Cafe, Continental, Italian, North Indian",Cafe,New Delhi,Satyaniketan,2,Cafe,True
+North Indian,North Indian,New Delhi,Palam,1,Street Food,False
+"North Indian, Mughlai",North Indian,New Delhi,Laxmi Nagar,2,Pizza,False
+"North Indian, Chinese",North Indian,New Delhi,Mahipalpur,2,Finger Food,False
+Finger Food,Finger Food,Noida,"Jaypee Greens Golf & Spa Resort, Surajpur",4,Finger Food,True
+South Indian,South Indian,New Delhi,Hauz Khas Village,2,American,False
+"Fast Food, Burger",Fast Food,New Delhi,East Patel Nagar,1,Healthy Food,False
+"North Indian, Mughlai",North Indian,Dehradun,Paltan Bazaar,3,Cafe,False
+Mexican,Mexican,Sandton,"Pineslopes Shopping Centre, Fourways",4,European,False
+"North Indian, Fast Food, Chinese",North Indian,Noida,Sector 51,1,Bakery,False
+Bakery,Bakery,Gurgaon,"Ansal Plaza Mall, Palam Vihar",1,Desserts,False
+"North Indian, Mughlai, Chinese",North Indian,Faridabad,Sector 37,2,Continental,False
+"North Indian, Chinese, Continental",North Indian,New Delhi,GTB Nagar,3,Finger Food,False
+"North Indian, Chinese",North Indian,Noida,Sector 22,1,Ice Cream,False
+"Fast Food, Burger",Fast Food,Ghaziabad,"Shipra Mall, Indirapuram",2,Burger,False
+"Asian, Burmese",Asian,Gurgaon,"Cyber Hub, DLF Cyber City",3,Continental,False
+"Fast Food, North Indian, Chinese",Fast Food,Noida,Greater Noida,1,Beverages,False
+"North Indian, Chinese",North Indian,Noida,Sector 41,2,Biryani,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Pandara Road Market,3,Italian,False
+"North Indian, Chinese, Continental",North Indian,New Delhi,Gujranwala Town,1,Beverages,False
+"North Indian, Chinese",North Indian,Gurgaon,"Shopping Mall, DLF Phase 1",2,American,False
+Italian,Italian,New Delhi,"Hyatt Regency, Bhikaji Cama Place",4,Japanese,False
+"North Indian, Mughlai",North Indian,Gurgaon,"MGF Metropolitan Mall, MG Road",2,Burger,False
+"Chinese, Thai",Chinese,Noida,Sector 110,2,Biryani,False
+"Continental, North Indian",Continental,Gurgaon,"Woods Resort, Gurgaon",3,Finger Food,False
+"Bakery, Fast Food",Bakery,New Delhi,Mayur Vihar Phase 2,1,Bakery,True
+"Chinese, North Indian, Italian, Fast Food",Chinese,New Delhi,Kamla Nagar,3,Finger Food,False
+Chinese,Chinese,New Delhi,Jail Road,1,Mughlai,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,East of Kailash,1,Biryani,False
+Chinese,Chinese,New Delhi,Hauz Khas,1,Ice Cream,False
+North Indian,North Indian,New Delhi,Nehru Place,1,South Indian,False
+American,American,Edinburgh,Old Town,3,Indian,False
+Street Food,Street Food,New Delhi,Chandni Chowk,1,Street Food,True
+"North Indian, Mughlai",North Indian,Noida,"The Great India Place, Sector 38",3,Italian,False
+"North Indian, Chinese",North Indian,New Delhi,Shalimar Bagh,2,Pizza,False
+North Indian,North Indian,New Delhi,Safdarjung,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,New Delhi,Krishna Nagar,2,Healthy Food,False
+"North Indian, Chinese",North Indian,Noida,Sector 31,2,Asian,False
+Mithai,Mithai,New Delhi,Chandni Chowk,1,Street Food,False
+"Desserts, Beverages, Juices",Desserts,Puducherry,Heritage Town,2,Pizza,False
+"Pizza, Fast Food",Pizza,New Delhi,Paschim Vihar,2,Pizza,True
+Cafe,Cafe,New Delhi,Vikaspuri,1,Raw Meats,False
+"Fast Food, Burger",Fast Food,New Delhi,Netaji Subhash Place,1,Ice Cream,False
+"North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Desserts, Mithai",North Indian,Noida,Sector 18,2,Healthy Food,False
+Mughlai,Mughlai,New Delhi,Chandni Chowk,1,Street Food,False
+North Indian,North Indian,New Delhi,Defence Colony,2,Burger,False
+"North Indian, Chinese",North Indian,Indore,Bhawar Kuan,3,Italian,False
+"Indian, North Indian",Indian,Sharjah,Muwailih Commercial,3,Indian,True
+"Fast Food, Bakery",Fast Food,New Delhi,Vikaspuri,1,Raw Meats,False
+Asian,Asian,New Delhi,Lodhi Colony,4,Japanese,False
+Desserts,Desserts,Puducherry,MG Road,2,Pizza,False
+"North Indian, Street Food",North Indian,New Delhi,Nehru Place,1,South Indian,False
+"North Indian, Chinese, Continental",North Indian,Nashik,"SSK Solitaire, Satpur",3,Italian,False
+North Indian,North Indian,New Delhi,Vijay Nagar,1,Fast Food,False
+Bakery,Bakery,Gurgaon,Sushant Lok,1,Desserts,False
+Cafe,Cafe,New Delhi,"The Taj Mahal Hotel, Mansingh Road",4,Seafood,False
+North Indian,North Indian,Gurgaon,"Sushant Shopping Arcade, Sushant Lok, Gurgaon",2,American,False
+"Ice Cream, Desserts",Ice Cream,Gurgaon,Palam Vihar,1,Street Food,False
+Ice Cream,Ice Cream,New Delhi,Geeta Colony,1,Street Food,False
+Ice Cream,Ice Cream,New Delhi,Mayur Vihar Phase 1,1,Bakery,False
+"Seafood, French",Seafood,Goa,Arambol,3,Seafood,True
+"Fast Food, Beverages",Fast Food,New Delhi,Kamla Nagar,1,Beverages,False
+Chinese,Chinese,New Delhi,Shalimar Bagh,1,Desserts,False
+"Bakery, Fast Food",Bakery,Faridabad,Sector 15,1,Bakery,True
+"Raw Meats, North Indian, Fast Food",Raw Meats,Faridabad,Sector 15,1,Bakery,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,"Fun City Mall, Prashant Vihar",1,Beverages,False
+"American, Fast Food, Salad, Healthy Food",American,Noida,Sector 62,2,Biryani,False
+"Seafood, American",Seafood,Dubai,"The Dubai Mall,Downtown Dubai",3,Indian,False
+Fast Food,Fast Food,New Delhi,Connaught Place,1,Ice Cream,False
+"North Indian, Chinese",North Indian,New Delhi,Safdarjung,2,Pizza,False
+Fast Food,Fast Food,New Delhi,East Patel Nagar,1,Raw Meats,False
+"North Indian, Chinese",North Indian,New Delhi,Vijay Nagar,1,Fast Food,False
+Fast Food,Fast Food,Noida,"The Great India Place, Sector 38",1,Ice Cream,False
+Bakery,Bakery,New Delhi,Preet Vihar,1,Ice Cream,False
+"Desserts, Street Food",Desserts,New Delhi,Palam,1,Street Food,False
+"Fast Food, Bakery",Fast Food,New Delhi,Nangloi,1,Mithai,False
+Chinese,Chinese,New Delhi,Subhash Nagar,1,Raw Meats,False
+Fast Food,Fast Food,Gurgaon,"Huda City Centre Metro Station, Sector 29, Gurgaon",2,Italian,False
+North Indian,North Indian,Faridabad,Sector 16,1,Ice Cream,False
+"Cafe, Italian, Continental, Desserts",Cafe,Noida,Sector 18,3,Finger Food,False
+Mexican,Mexican,Albany,Albany,1,Asian,False
+North Indian,North Indian,Noida,Sector 20,1,Raw Meats,False
+"Cafe, Bakery",Cafe,New Delhi,Vasant Kunj,2,Burger,False
+"North Indian, Mughlai, Hyderabadi",North Indian,Noida,Sector 110,1,Mithai,False
+Fast Food,Fast Food,Noida,"The Great India Place, Sector 38",1,Ice Cream,False
+"Fast Food, Desserts",Fast Food,New Delhi,IP Extension,1,Mithai,False
+"North Indian, Chinese",North Indian,Ranchi,Kadru,3,Seafood,False
+"American, Burger, Cafe",American,Bangalore,Koramangala 5th Block,2,Continental,False
+"Bakery, Desserts",Bakery,New Delhi,South Extension 2,2,Pizza,False
+North Indian,North Indian,New Delhi,IP Extension,2,Pizza,False
+Chinese,Chinese,New Delhi,Safdarjung,2,Pizza,False
+North Indian,North Indian,New Delhi,Daryaganj,1,Mughlai,False
+South Indian,South Indian,New Delhi,Rajouri Garden,1,Beverages,False
+"North Indian, Chinese",North Indian,New Delhi,Rajouri Garden,2,Healthy Food,False
+"Fast Food, North Indian, Beverages",Fast Food,New Delhi,Netaji Subhash Place,1,Fast Food,True
+"Fast Food, Chinese",Fast Food,Gurgaon,Palam Vihar,1,Street Food,False
+"North Indian, Continental, Italian, Finger Food",North Indian,New Delhi,Greater Kailash (GK) 1,3,European,False
+Cafe,Cafe,New Delhi,Janpath,1,Street Food,False
+Chinese,Chinese,New Delhi,Vijay Nagar,1,Fast Food,False
+Fast Food,Fast Food,New Delhi,Tilak Nagar,1,Healthy Food,False
+"North Indian, Chinese",North Indian,New Delhi,Karol Bagh,2,South Indian,False
+"North Indian, Chinese",North Indian,New Delhi,Qutab Institutional Area,1,Street Food,False
+"North Indian, Chinese, Fast Food",North Indian,Ludhiana,"A Hotel, Gurdev Nagar",2,Cafe,False
+"Bakery, Desserts",Bakery,New Delhi,MG Road,2,Mughlai,False
+North Indian,North Indian,New Delhi,Krishna Nagar,1,Raw Meats,False
+Mithai,Mithai,New Delhi,Shahdara,1,Mithai,True
+South Indian,South Indian,New Delhi,Connaught Place,2,Burger,False
+"Fast Food, North Indian",Fast Food,New Delhi,Dr. Zakir Hussain Marg,1,Fast Food,True
+Street Food,Street Food,Gurgaon,"Shopping Mall, DLF Phase 1",1,Desserts,False
+"Italian, North Indian",Italian,Faridabad,Sector 41,1,Raw Meats,False
+South Indian,South Indian,Bhopal,TT Nagar,2,Pizza,False
+Chinese,Chinese,New Delhi,Mandi House,1,Fast Food,False
+South Indian,South Indian,Gurgaon,Sector 14,1,Beverages,False
+Fast Food,Fast Food,New Delhi,Preet Vihar,1,Ice Cream,False
+North Indian,North Indian,New Delhi,Nangloi,1,Mithai,False
+"Italian, Continental, North Indian",Italian,New Delhi,PVR Anupam Complex,3,Finger Food,False
+"North Indian, Chinese",North Indian,New Delhi,Barakhamba Road,2,Burger,False
+South Indian,South Indian,New Delhi,Mayur Vihar Phase 2,1,Street Food,False
+"Desserts, Beverages",Desserts,New Delhi,Tilak Nagar,1,Street Food,False
+"North Indian, Chinese",North Indian,Noida,Sector 48,2,Pizza,False
+Cafe,Cafe,Puducherry,White Town,3,Continental,False
+North Indian,North Indian,Noida,Sector 18,1,Desserts,False
+"North Indian, Chinese",North Indian,New Delhi,Shahdara,1,Mithai,False
+"Chinese, Asian, Mediterranean, Continental",Chinese,New Delhi,Saket,2,Pizza,False
+Cafe,Cafe,Gurgaon,"Cyber Hub, DLF Cyber City",2,Burger,False
+"North Indian, Chinese",North Indian,Amritsar,Basant Nagar,2,Pizza,False
+"Chinese, North Indian",Chinese,New Delhi,Shahdara,1,Mithai,False
+North Indian,North Indian,New Delhi,Krishna Nagar,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,New Delhi,"V3S Mall, Laxmi Nagar",2,Pizza,False
+"American, Italian, Seafood",American,Tampa Bay,Downtown St Petersburg,2,American,True
+"Healthy Food, American, Burger, Salad",Healthy Food,Mumbai,Borivali West,2,Asian,False
+South Indian,South Indian,New Delhi,IP Extension,1,Mithai,False
+"Asian, Continental, Seafood",Asian,Singapore,"Marina Centre, Downtown Core",4,Finger Food,False
+"North Indian, European",North Indian,New Delhi,Connaught Place,3,Finger Food,False
+Bakery,Bakery,Puducherry,Auroville,1,Desserts,False
+"North Indian, Street Food, South Indian, Fast Food, Chinese",North Indian,New Delhi,"Pacific Mall, Tagore Garden",2,Burger,False
+Fast Food,Fast Food,Faridabad,Sector 43,1,Raw Meats,False
+Street Food,Street Food,New Delhi,Rajinder Nagar,1,Raw Meats,False
+"Italian, Continental, North Indian, Chinese",Italian,Noida,Sector 18,3,Italian,True
+Chinese,Chinese,Gurgaon,Sector 56,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,Gurgaon,"Fortune Select Excalibur, Sohna Road",4,Finger Food,False
+"Japanese, Tibetan, Vietnamese, Korean",Japanese,Gurgaon,DLF Phase 4,2,Healthy Food,False
+Biryani,Biryani,New Delhi,Rajinder Nagar,1,Raw Meats,False
+Street Food,Street Food,New Delhi,Vikaspuri,1,Raw Meats,False
+"North Indian, Chinese, South Indian, Seafood, Chettinad",North Indian,Noida,Sector 18,3,Finger Food,False
+"Continental, Italian",Continental,New Delhi,Greater Kailash (GK) 1,3,European,False
+"North Indian, South Indian",North Indian,Gurgaon,Sector 17,1,Raw Meats,False
+"North Indian, Chinese, Continental",North Indian,Gurgaon,"DT Mega Mall, DLF Phase 1",2,American,False
+"Beverages, Fast Food",Beverages,New Delhi,Mukherjee Nagar,1,Beverages,True
+South Indian,South Indian,New Delhi,Laxmi Nagar,1,Street Food,False
+Street Food,Street Food,New Delhi,Anand Vihar,1,Bakery,False
+North Indian,North Indian,Gurgaon,Sector 56,1,Raw Meats,False
+"Italian, Pizza, Fast Food",Italian,Gurgaon,Sushant Lok,3,Italian,True
+Biryani,Biryani,New Delhi,Qutab Institutional Area,1,Street Food,False
+"Pizza, Fast Food",Pizza,Vizag,"CMR Central Mall, Maddilapalem",2,Burger,False
+"American, Fast Food, Salad, Healthy Food",American,Noida,Sector 50,2,Biryani,False
+"Cafe, Italian, Mexican, Continental",Cafe,Faridabad,Sector 15,2,Healthy Food,False
+Fast Food,Fast Food,Gurgaon,Sector 22,1,Raw Meats,False
+Chinese,Chinese,New Delhi,Shahdara,1,Mithai,False
+"North Indian, Biryani",North Indian,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+Finger Food,Finger Food,New Delhi,Chanakyapuri,4,Finger Food,True
+"Seafood, Asian, Grill, Sushi",Seafood,Cape Town,Green Point,4,Burger,False
+"North Indian, Chinese",North Indian,New Delhi,"Crescent Square Mall, Rohini",3,Finger Food,False
+"Bakery, Desserts, Fast Food",Bakery,Noida,Sector 18,1,Desserts,False
+"European, North Indian, Chinese",European,Noida,"Spice World Mall, Sector 25",4,Finger Food,False
+Japanese,Japanese,Gurgaon,"Best Western Skycity Hotel, Sector 15, Gurgaon",3,Finger Food,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,Tilak Nagar,1,Street Food,False
+American,American,New Delhi,"Unity One Mall, Janakpuri",1,Ice Cream,False
+"Desserts, Fast Food",Desserts,Allahabad,Civil Lines,3,Italian,False
+"Japanese, Seafood, Sushi",Japanese,Rest of Hawaii,Kihei,3,Seafood,False
+"North Indian, Chinese",North Indian,New Delhi,Mahipalpur,1,Mithai,False
+"North Indian, Chinese, Mughlai",North Indian,Gurgaon,Sector 45,2,Mughlai,False
+South Indian,South Indian,Surat,Adajan Gam,2,Pizza,False
+Fast Food,Fast Food,New Delhi,Chittaranjan Park,1,Beverages,False
+"Chinese, Mughlai, North Indian",Chinese,New Delhi,Krishna Nagar,1,Raw Meats,False
+"Mexican, Fast Food",Mexican,Noida,"DLF Mall of India, Sector 18,  Noida",2,Burger,False
+"North Indian, Chinese",North Indian,Noida,Sector 2,1,Bakery,False
+"Bakery, Desserts, Fast Food",Bakery,Gurgaon,"Qutab Plaza, DLF Phase 1",1,Healthy Food,False
+North Indian,North Indian,New Delhi,Naraina,1,Desserts,False
+Ice Cream,Ice Cream,Gurgaon,Sector 14,1,Burger,False
+Street Food,Street Food,Noida,"Jaipuria Plaza, Sector 26, Noida",1,Biryani,False
+Chinese,Chinese,Noida,Sector 29,1,Raw Meats,False
+Fast Food,Fast Food,New Delhi,Rajendra Place,2,Mughlai,False
+North Indian,North Indian,New Delhi,Nangloi,1,Mithai,False
+"North Indian, Chinese, Street Food",North Indian,New Delhi,Najafgarh,1,Mithai,False
+"North Indian, Mughlai",North Indian,New Delhi,Jangpura,2,Finger Food,False
+"Cafe, Italian, Mexican, Chinese",Cafe,Indore,Vijay Nagar,2,Cafe,True
+"Bakery, Desserts",Bakery,New Delhi,SDA,2,Mexican,False
+North Indian,North Indian,New Delhi,Paharganj,2,Finger Food,False
+North Indian,North Indian,New Delhi,Mukherjee Nagar,1,Beverages,False
+"North Indian, Chinese, Continental",North Indian,New Delhi,"D Mall, Netaji Subhash Place",3,Finger Food,False
+Mughlai,Mughlai,Noida,Sector 62,2,Pizza,False
+North Indian,North Indian,New Delhi,Kamla Nagar,2,Mughlai,False
+"Cafe, Spanish, Turkish, Greek",Cafe,Singapore,"Victoria, Rochor",4,American,False
+"American, Fast Food, Salad, Healthy Food",American,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",2,Healthy Food,False
+"South Indian, Fast Food",South Indian,Patna,Fraser Road Area,1,North Indian,False
+"Street Food, North Indian",Street Food,New Delhi,Sainik Farms,1,Mithai,False
+Fast Food,Fast Food,New Delhi,Karol Bagh,1,Ice Cream,False
+"North Indian, Mughlai",North Indian,Agra,"ITC Mughal, Tajganj",4,Finger Food,False
+"Chinese, North Indian, Mughlai",Chinese,New Delhi,Rohini,3,Italian,False
+Fast Food,Fast Food,New Delhi,Mukherjee Nagar,1,Beverages,False
+"Chinese, North Indian",Chinese,New Delhi,Mukherjee Nagar,2,Mughlai,False
+"North Indian, Chinese",North Indian,Secunderabad,Karkhana,2,Healthy Food,False
+Bakery,Bakery,Gurgaon,"Fortune Select Excalibur, Sohna Road",3,Asian,False
+North Indian,North Indian,Noida,Greater Noida,1,Ice Cream,False
+"North Indian, Chinese",North Indian,Faridabad,Sector 16,1,Ice Cream,False
+Fast Food,Fast Food,New Delhi,Yusuf Sarai,1,Raw Meats,False
+"North Indian, South Indian, Mughlai",North Indian,New Delhi,Vasant Vihar,2,Finger Food,False
+"North Indian, Chinese",North Indian,New Delhi,Satyaniketan,1,Desserts,False
+South Indian,South Indian,New Delhi,Greater Kailash (GK) 2,2,Healthy Food,False
+North Indian,North Indian,New Delhi,Chandni Chowk,1,Street Food,False
+"Continental, European, Asian, North Indian, Chinese, Italian",Continental,Gurgaon,"Cross Point Mall, DLF Phase 4",3,Finger Food,False
+"North Indian, Mughlai",North Indian,Gurgaon,"Huda City Centre Metro Station, Sector 29, Gurgaon",1,Italian,False
+"North Indian, Chinese",North Indian,New Delhi,Shalimar Bagh,1,Desserts,False
+"European, Mediterranean, North Indian",European,Hyderabad,Jubilee Hills,3,Continental,False
+"North Indian, Chinese",North Indian,Gurgaon,Sector 39,2,Cafe,False
+"European, Italian, Cafe",European,New Delhi,Hauz Khas Village,3,Continental,False
+"Mithai, North Indian, South Indian, Street Food",Mithai,New Delhi,Kalkaji,1,Street Food,False
+"North Indian, Chinese, Cafe",North Indian,Noida,Sector 62,3,Finger Food,False
+Ice Cream,Ice Cream,New Delhi,Rajinder Nagar,1,Raw Meats,False
+"Mithai, Fast Food",Mithai,New Delhi,Shahdara,1,Mithai,True
+"Desserts, Bakery, Western",Desserts,Jakarta,"Grand Indonesia Mall, Thamrin",3,Seafood,False
+"Bakery, Desserts",Bakery,New Delhi,Moti Nagar,1,Ice Cream,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,Pitampura,1,Street Food,False
+Beverages,Beverages,New Delhi,"JMD Kohinoor Mall, Greater Kailash",1,Fast Food,False
+North Indian,North Indian,Gurgaon,Sector 31,2,Asian,False
+"North Indian, Chinese",North Indian,Nashik,College Road,3,Italian,False
+Bakery,Bakery,New Delhi,Lajpat Nagar 1,1,Burger,False
+Fast Food,Fast Food,Noida,Sector 18,1,Desserts,False
+Chinese,Chinese,New Delhi,Mayur Vihar Phase 1,1,Bakery,False
+"North Indian, South Indian",North Indian,New Delhi,Delhi University-GTB Nagar,1,Beverages,False
+Bakery,Bakery,Gurgaon,"Sushant Shopping Arcade, Sushant Lok, Gurgaon",2,American,False
+"North Indian, Continental",North Indian,New Delhi,Connaught Place,3,Asian,False
+Fast Food,Fast Food,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+"Italian, Pizza, Cafe",Italian,Gurgaon,"One Horizon Center, Golf Course Road",3,Healthy Food,False
+Street Food,Street Food,New Delhi,Krishna Nagar,1,Raw Meats,False
+"Mithai, Street Food, Fast Food",Mithai,Faridabad,Sector 35,1,Raw Meats,False
+North Indian,North Indian,New Delhi,Qutab Institutional Area,2,Pizza,False
+Street Food,Street Food,New Delhi,Chandni Chowk,1,Street Food,True
+"Fast Food, North Indian",Fast Food,New Delhi,Vikaspuri,1,Raw Meats,False
+"Street Food, Fast Food",Street Food,Faridabad,Sector 28,1,Raw Meats,False
+"Pizza, Fast Food",Pizza,Noida,"Spice World Mall, Sector 25",2,Ice Cream,False
+"North Indian, Continental, Thai, Chinese",North Indian,Noida,Sector 18,3,Italian,False
+"North Indian, Chinese",North Indian,Noida,"Ganga Shopping Complex, Sector 29",2,Raw Meats,False
+"Chinese, Fast Food",Chinese,New Delhi,East Patel Nagar,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,New Delhi,PVR Anupam Complex,3,Finger Food,False
+"Fast Food, South Indian, Mithai",Fast Food,New Delhi,Najafgarh,1,Mithai,False
+Chinese,Chinese,New Delhi,Hauz Khas Village,1,Ice Cream,False
+"Cafe, Tea",Cafe,Noida,"DLF Mall of India, Sector 18,  Noida",1,Beverages,False
+Street Food,Street Food,New Delhi,Vasundhara Enclave,1,Biryani,False
+"Mughlai, North Indian, Chinese",Mughlai,New Delhi,Malviya Nagar,2,Healthy Food,False
+"Cafe, Healthy Food, Continental",Cafe,New Delhi,Defence Colony,2,Biryani,False
+"Continental, Mexican, Beverages, Desserts, North Indian, Chinese, Rajasthani",Continental,Jaipur,"Devraj Niwas, Bani Park",3,Italian,False
+North Indian,North Indian,New Delhi,Geeta Colony,1,Street Food,False
+"Bakery, Fast Food",Bakery,New Delhi,IP Extension,1,Mithai,False
+"Chinese, North Indian",Chinese,New Delhi,Chanakyapuri,2,Chinese,True
+"North Indian, Mughlai",North Indian,New Delhi,Moti Nagar,2,Seafood,False
+"Biryani, Andhra",Biryani,Vizag,Rushikonda,2,South Indian,False
+"Raw Meats, Fast Food",Raw Meats,New Delhi,Punjabi Bagh,1,Desserts,False
+North Indian,North Indian,New Delhi,Shakarpur,1,South Indian,False
+"North Indian, Fast Food, Chinese",North Indian,Noida,Sector 27,1,Street Food,False
+"North Indian, Fast Food",North Indian,Agra,Tajganj,2,Italian,False
+"Chinese, North Indian",Chinese,Noida,Sector 71,1,Bakery,False
+"North Indian, Chinese, Fast Food",North Indian,Gurgaon,DLF Phase 1,2,Healthy Food,False
+Chinese,Chinese,Faridabad,Sector 9,1,Mithai,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,New Delhi,Model Town 3,1,Street Food,False
+Ice Cream,Ice Cream,New Delhi,Tagore Garden,1,Fast Food,False
+Cafe,Cafe,New Delhi,"Sangam Courtyard, RK Puram",2,Asian,False
+Fast Food,Fast Food,New Delhi,Chandni Chowk,1,Street Food,False
+"Cafe, Fast Food, North Indian",Cafe,Jaipur,Vaishali Nagar,3,Italian,False
+Biryani,Biryani,Gurgaon,Old Railway Road,1,Bakery,False
+"Fast Food, North Indian, Chinese",Fast Food,New Delhi,Qutab Institutional Area,2,Pizza,False
+"Cafe, Fast Food",Cafe,Indore,Vijay Nagar,2,Cafe,True
+"North Indian, Chinese",North Indian,Noida,Sector 72,2,Mughlai,False
+"Asian, Bakery",Asian,Gurgaon,"Jukaso It Suites, Sector 14",3,Finger Food,False
+"Bakery, Fast Food",Bakery,New Delhi,Paschim Vihar,1,Biryani,False
+"Biryani, Mughlai",Biryani,Noida,Sector 110,2,Biryani,True
+"Chinese, Fast Food",Chinese,New Delhi,Shakarpur,1,South Indian,False
+"North Indian, Chinese",North Indian,New Delhi,Defence Colony,2,Burger,False
+"North Indian, Mughlai",North Indian,Gurgaon,Sector 7,2,Burger,False
+North Indian,North Indian,Noida,"Spice World Mall, Sector 25",2,Ice Cream,False
+Mithai,Mithai,New Delhi,Chittaranjan Park,1,Beverages,False
+Bakery,Bakery,Gurgaon,Sector 31,2,Asian,False
+"Ice Cream, Desserts",Ice Cream,Gurgaon,Sector 56,1,Raw Meats,False
+"Cafe, European",Cafe,New Delhi,Vasant Vihar,4,Finger Food,False
+"Chinese, Fast Food",Chinese,New Delhi,Rajinder Nagar,1,Ice Cream,False
+Pizza,Pizza,New Delhi,Green Park,2,Pizza,True
+"North Indian, Mughlai, Chinese",North Indian,Gurgaon,Sector 56,2,North Indian,True
+"Seafood, North Indian",Seafood,Mangalore,Kadri,3,Seafood,True
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,"Metro Walk Mall, Rohini",3,Italian,False
+"Japanese, Korean",Japanese,Athens,Athens,1,Mexican,False
+North Indian,North Indian,Noida,Sector 27,1,Street Food,False
+North Indian,North Indian,Noida,Sector 132,1,Beverages,False
+Cafe,Cafe,Coimbatore,Peelamedu,2,Pizza,False
+"Bakery, Desserts",Bakery,New Delhi,Kalkaji,3,Italian,False
+Cafe,Cafe,Gurgaon,"MGF Metropolis Mall, MG Road",2,Finger Food,False
+Fast Food,Fast Food,New Delhi,Shalimar Bagh,1,Desserts,False
+"Street Food, Mughlai",Street Food,New Delhi,Preet Vihar,1,Ice Cream,False
+Mithai,Mithai,New Delhi,Uttam Nagar,1,Street Food,False
+"Bakery, Desserts",Bakery,Gurgaon,Sector 56,1,Biryani,False
+"North Indian, Chinese",North Indian,Faridabad,Sector 17,2,Cafe,False
+"Continental, North Indian, Italian, Asian",Continental,New Delhi,"The Lalit New Delhi, Barakhamba Road",4,Finger Food,False
+"Finger Food, North Indian, Continental, Italian, Mediterranean",Finger Food,Kanpur,Ashok Nagar,3,Finger Food,True
+"North Indian, Mughlai",North Indian,New Delhi,Yusuf Sarai,1,Raw Meats,False
+"Chinese, North Indian, Italian",Chinese,Gurgaon,"Courtyard by Marriott, Sushant Lok",4,Finger Food,False
+Cafe,Cafe,Gurgaon,"Ninex City Mart Mall, Sohna Road",1,Burger,False
+"North Indian, Chinese, Mughlai",North Indian,Noida,Sector 27,2,Italian,False
+Pizza,Pizza,Faridabad,Sector 86,2,North Indian,False
+"American, Fast Food, Salad, Healthy Food",American,Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",2,American,True
+"Ice Cream, Desserts",Ice Cream,New Delhi,Kamla Nagar,1,Ice Cream,True
+"Bakery, Fast Food",Bakery,Gurgaon,"Central Arcade, DLF Phase 2, Gurgaon",2,Burger,False
+Pizza,Pizza,New Delhi,Adchini,1,South Indian,False
+Cafe,Cafe,Noida,"Jaipuria Plaza, Sector 26, Noida",1,Biryani,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Defence Colony,2,Burger,False
+Mughlai,Mughlai,New Delhi,Preet Vihar,1,Ice Cream,False
+"Mithai, North Indian, South Indian, Street Food, Chinese",Mithai,Noida,Sector 18,2,Pizza,False
+"Seafood, Italian",Seafood,New Delhi,"Shangri La's - Eros hotel, Janpath",4,Finger Food,False
+Chinese,Chinese,Varanasi,Lanka,3,Italian,False
+"Chinese, Fast Food",Chinese,New Delhi,Vikaspuri,1,Raw Meats,False
+"Mithai, Street Food",Mithai,Noida,Sector 110,1,Mithai,True
+"Bakery, Desserts",Bakery,New Delhi,Safdarjung,2,Pizza,False
+North Indian,North Indian,Gurgaon,Old Railway Road,1,Bakery,False
+North Indian,North Indian,Gurgaon,Sector 50,1,Raw Meats,False
+"American, Burger",American,Dubuque,Dubuque,2,American,True
+Bakery,Bakery,Noida,Sector 12,1,Ice Cream,False
+"Italian, Pizza, Fast Food",Italian,New Delhi,"Star City Mall, Mayur Vihar Phase 1",2,Pizza,False
+"Fast Food, Turkish",Fast Food,New Delhi,Greater Kailash (GK) 1,2,Healthy Food,False
+"North Indian, Mughlai",North Indian,New Delhi,"Community Centre, New Friends Colony",2,Cafe,False
+"North Indian, Chinese",North Indian,Dehradun,Karanpur,3,Seafood,False
+North Indian,North Indian,Noida,Sector 27,1,Street Food,False
+Italian,Italian,Faridabad,Sector 31,1,Raw Meats,False
+Desserts,Desserts,New Delhi,Netaji Subhash Place,1,Ice Cream,False
+Cafe,Cafe,New Delhi,Connaught Place,2,Burger,False
+"North Indian, South Indian",North Indian,Gurgaon,Sector 45,1,Raw Meats,False
+Chinese,Chinese,New Delhi,Vikaspuri,2,Pizza,False
+"North Indian, Mughlai, Chinese",North Indian,Faridabad,Sector 86,2,Mughlai,False
+"Chinese, Japanese, Thai",Chinese,Gainesville,Dahlonega,1,American,False
+"Burger, American, Fast Food",Burger,Noida,"DLF Mall of India, Sector 18,  Noida",2,Burger,True
+"Bakery, Desserts",Bakery,New Delhi,R K Puram,2,Biryani,False
+North Indian,North Indian,Gurgaon,"Vyapar Kendra, Sushant Lok",2,Burger,False
+"Fast Food, Italian",Fast Food,New Delhi,Rohini,1,Street Food,False
+"American, Mexican, Burger",American,Sharjah,"Sahara Centre, Al Nahda",4,Italian,False
+"North Indian, Chinese",North Indian,New Delhi,Mayur Vihar Phase 1,1,Bakery,False
+Fast Food,Fast Food,Patna,Golambar,2,Biryani,False
+"Fast Food, Beverages",Fast Food,New Delhi,Shalimar Bagh,1,Desserts,False
+Fast Food,Fast Food,New Delhi,Subhash Nagar,1,Raw Meats,False
+Fast Food,Fast Food,Noida,Sector 44,1,Fast Food,True
+"North Indian, Chinese",North Indian,Noida,"Supertech Shopprix Mall, Sector 61",2,American,False
+"Continental, North Indian, European, Finger Food",Continental,Gurgaon,"DLF South Point Mall, Golf Course Road",4,Finger Food,False
+"European, Continental",European,New Delhi,Hauz Khas,3,Finger Food,False
+"South Indian, Fast Food",South Indian,New Delhi,Vikaspuri,1,Raw Meats,False
+North Indian,North Indian,New Delhi,Connaught Place,1,Ice Cream,False
+Fast Food,Fast Food,New Delhi,"DLF City Centre Mall, Shalimar Bagh",1,Ice Cream,False
+"North Indian, Chinese, Italian",North Indian,Gurgaon,"Cyber Hub, DLF Cyber City",3,Continental,False
+"Burger, German, Sandwich",Burger,Gainesville,Helen,2,American,False
+North Indian,North Indian,Gurgaon,Udyog Vihar,2,Pizza,False
+"Fast Food, Chinese",Fast Food,New Delhi,Shahdara,1,Mithai,False
+"Fast Food, Chinese",Fast Food,New Delhi,Karol Bagh,1,Ice Cream,False
+"North Indian, Chinese",North Indian,New Delhi,Janakpuri,2,Finger Food,False
+Mithai,Mithai,New Delhi,Shahdara,1,Mithai,True
+"South Indian, North Indian, Chinese",South Indian,Faridabad,Sector 34,2,North Indian,False
+North Indian,North Indian,Nashik,Satpur,4,Finger Food,False
+"North Indian, Mughlai",North Indian,New Delhi,Vasant Vihar,2,Pizza,False
+"North Indian, Chinese, Mughlai",North Indian,New Delhi,Rajinder Nagar,2,Biryani,False
+North Indian,North Indian,Nashik,Parijat Nagar,4,Italian,False
+"Chinese, Fast Food",Chinese,New Delhi,Gujranwala Town,1,Beverages,False
+Cafe,Cafe,Noida,Sector 62,2,Pizza,False
+"American, Fast Food, Salad, Healthy Food",American,New Delhi,Kamla Nagar,2,Mughlai,False
+"Indian, Curry",Indian,Manchester,Rusholme,2,Indian,True
+"Finger Food, North Indian, Italian",Finger Food,New Delhi,"DLF Promenade Mall, Vasant Kunj",3,American,False
+Mexican,Mexican,Dalton,Dalton,1,Mexican,True
+"American, Fast Food, Salad, Healthy Food",American,New Delhi,Punjabi Bagh,2,Healthy Food,False
+"Cafe, Burger, Tapas, South African, European, Grill",Cafe,Pretoria,Faerie Glen,4,Healthy Food,False
+Ice Cream,Ice Cream,Gurgaon,Sohna Road,1,Healthy Food,False
+"Chinese, North Indian",Chinese,Gurgaon,DLF Phase 1,2,Biryani,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Kirti Nagar,2,Pizza,False
+North Indian,North Indian,New Delhi,"Moments Mall, Kirti Nagar",1,Beverages,False
+"Italian, French, European, Cafe",Italian,New Delhi,Khan Market,3,Finger Food,False
+"Raw Meats, Fast Food",Raw Meats,New Delhi,Gujranwala Town,1,Beverages,False
+"North Indian, Mughlai",North Indian,Ghaziabad,"Shipra Mall, Indirapuram",3,Italian,False
+"Chinese, Asian",Chinese,Jaipur,"Holiday Inn Jaipur City Centre, Bais Godam",4,Italian,False
+Mughlai,Mughlai,New Delhi,Khan Market,1,Mughlai,True
+"North Indian, Chinese",North Indian,New Delhi,Kalkaji,2,South Indian,False
+North Indian,North Indian,New Delhi,Mukherjee Nagar,1,Beverages,False
+Biryani,Biryani,New Delhi,Lajpat Nagar 2,2,Burger,False
+"Chinese, North Indian",Chinese,New Delhi,Naraina,2,South Indian,False
+North Indian,North Indian,New Delhi,Moti Nagar,1,Ice Cream,False
+"Asian, Vegetarian, Vietnamese",Asian,Sioux City,Sioux City,1,Asian,True
+"Mughlai, Biryani",Mughlai,New Delhi,Laxmi Nagar,1,Street Food,False
+Desserts,Desserts,New Delhi,Defence Colony,1,Ice Cream,False
+"Continental, American",Continental,Colombo,"Rajagiriya, Colombo",3,American,False
+"North Indian, Mughlai",North Indian,New Delhi,Chanakyapuri,3,Finger Food,False
+Chinese,Chinese,New Delhi,Jasola,1,Beverages,False
+North Indian,North Indian,New Delhi,Paschim Vihar,1,Raw Meats,False
+"Continental, Cafe, Italian, Pizza, North Indian, Chinese, Bakery, Mughlai",Continental,Patna,Golambar,2,Biryani,False
+North Indian,North Indian,New Delhi,R K Puram,2,Biryani,False
+"South Indian, Street Food, Mithai",South Indian,New Delhi,Subhash Nagar,1,Raw Meats,False
+North Indian,North Indian,Noida,Sector 50,1,Raw Meats,False
+North Indian,North Indian,New Delhi,Krishna Nagar,1,Raw Meats,False
+Street Food,Street Food,Noida,Sector 45,1,Ice Cream,False
+Mithai,Mithai,New Delhi,Moti Nagar,1,Ice Cream,False
+Fast Food,Fast Food,New Delhi,Qutab Institutional Area,1,Street Food,False
+Cafe,Cafe,New Delhi,Janpath,2,Cafe,True
+"North Indian, Rajasthani",North Indian,Noida,"The Great India Place, Sector 38",3,Italian,False
+Bakery,Bakery,New Delhi,Jangpura,1,Raw Meats,False
+Asian,Asian,New Delhi,"The Taj Palace Hotel, Chanakyapuri",4,Finger Food,False
+Mithai,Mithai,New Delhi,Najafgarh,1,Mithai,True
+North Indian,North Indian,New Delhi,Chawri Bazar,1,Street Food,False
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,Safdarjung,1,Raw Meats,False
+North Indian,North Indian,Gurgaon,Sector 17,1,Raw Meats,False
+Cafe,Cafe,New Delhi,Janakpuri,2,Italian,False
+Mughlai,Mughlai,New Delhi,Chandni Chowk,1,Street Food,False
+"Burger, American, Grill",Burger,Cape Town,"Victoria Wharf, V & A Waterfront",3,Seafood,False
+"Cafe, Lebanese, Italian",Cafe,Indore,Old Palasia,3,Italian,False
+"American, Steak",American,Singapore,"Bayfront Subzone, Downtown Core",4,Finger Food,False
+"North Indian, Fast Food",North Indian,New Delhi,Okhla Phase 2,2,Mughlai,False
+Fast Food,Fast Food,New Delhi,Netaji Subhash Place,1,Fast Food,True
+"Healthy Food, Juices, Salad, Italian, Continental",Healthy Food,Gurgaon,DLF Phase 3,2,Healthy Food,True
+Chinese,Chinese,Mangalore,Balmatta,2,Finger Food,False
+"North Indian, Fast Food",North Indian,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+North Indian,North Indian,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+"Pizza, Bar Food",Pizza,Beechworth,Beechworth,2,Asian,False
+"Pizza, Fast Food",Pizza,New Delhi,Safdarjung,1,Raw Meats,False
+"Bakery, Beverages",Bakery,Gurgaon,"Qutab Plaza, DLF Phase 1",2,Healthy Food,False
+North Indian,North Indian,New Delhi,Chandni Chowk,1,Street Food,False
+Street Food,Street Food,New Delhi,Shalimar Bagh,1,Desserts,False
+"Desserts, Italian, Pizza",Desserts,Augusta,Augusta,2,Mexican,False
+Street Food,Street Food,New Delhi,Paschim Vihar,1,Biryani,False
+Bakery,Bakery,Gurgaon,Sector 56,2,North Indian,False
+"Indian, North Indian, Mughlai, Biryani",Indian,Abu Dhabi,"Dalma Mall, Mussafah Sanaiya",3,Indian,True
+"Chinese, Fast Food",Chinese,New Delhi,Uttam Nagar,1,Street Food,False
+North Indian,North Indian,New Delhi,Hauz Khas Village,3,Continental,False
+"North Indian, Mughlai, Chinese, South Indian",North Indian,Chennai,Ramapuram,2,Biryani,False
+"North Indian, Chinese",North Indian,Allahabad,Civil Lines,3,Italian,False
+"Raw Meats, North Indian",Raw Meats,New Delhi,Rajinder Nagar,2,Mughlai,False
+"Cafe, Desserts, Bakery",Cafe,New Delhi,Khan Market,2,Mughlai,False
+"South Indian, Chinese, Mughlai",South Indian,Gurgaon,Ardee City,1,Raw Meats,False
+"North Indian, Chinese",North Indian,New Delhi,Connaught Place,3,Finger Food,False
+"Chinese, Continental",Chinese,New Delhi,Pitampura,1,Street Food,False
+Chinese,Chinese,New Delhi,Mukherjee Nagar,1,Ice Cream,False
+"North Indian, Chinese",North Indian,Gurgaon,Sector 39,1,Ice Cream,False
+"South Indian, Chinese",South Indian,New Delhi,Shahdara,1,Mithai,False
+"Continental, North Indian",Continental,Noida,"Jaypee Greens, Greater Noida, Noida",3,Finger Food,False
+"Fast Food, Burger",Fast Food,New Delhi,Nehru Place,2,American,False
+"Chinese, Thai",Chinese,New Delhi,Greater Kailash (GK) 2,3,Italian,False
+"Italian, Pizza",Italian,Albany,Albany,1,Asian,False
+"Fast Food, Burger",Fast Food,Gurgaon,"Huda City Centre Metro Station, Sector 29, Gurgaon",2,Italian,False
+"South Indian, North Indian",South Indian,Gurgaon,DLF Phase 3,1,Beverages,False
+"North Indian, Chinese",North Indian,Noida,Sector 62,1,Raw Meats,False
+Ice Cream,Ice Cream,Noida,Sector 93,1,Mithai,False
+"Cafe, Mexican",Cafe,Noida,Sector 51,2,Healthy Food,False
+North Indian,North Indian,New Delhi,Kamla Nagar,1,Ice Cream,False
+"Pizza, Sandwich",Pizza,Pocatello,Pocatello,1,Mexican,False
+"Mithai, Bakery, Street Food, Chinese, South Indian",Mithai,Faridabad,Sector 7,1,Mithai,True
+North Indian,North Indian,New Delhi,"The Claridges, Aurangzeb Road",4,European,False
+"American, Fast Food, Salad, Healthy Food",American,New Delhi,"West End Mall, Janak Puri",2,American,True
+"European, Mediterranean, Contemporary",European,Manchester,"The Midland, Deansgate",3,Indian,False
+"North Indian, Mughlai",North Indian,New Delhi,Najafgarh,2,Finger Food,False
+"Cafe, Bakery, Desserts",Cafe,Sharjah,University City,4,Finger Food,False
+"Continental, Italian",Continental,Mumbai,Juhu,3,Asian,False
+"Chinese, Seafood, Japanese",Chinese,New Delhi,"V3S Mall, Laxmi Nagar",3,Finger Food,False
+North Indian,North Indian,New Delhi,Mayapuri Phase 2,1,South Indian,False
+"Continental, North Indian",Continental,Gurgaon,"The Bristol Hotel, DLF Phase 1",4,Finger Food,False
+"American, Fast Food, Salad, Healthy Food",American,Noida,Sector 132,2,Pizza,False
+"North Indian, Mughlai",North Indian,Noida,Sector 18,4,Asian,False
+"American, Fast Food, Desserts, Steak",American,Manchester,Cheetham Hill,2,Indian,False
+North Indian,North Indian,New Delhi,Preet Vihar,1,Ice Cream,False
+Fast Food,Fast Food,Colombo,"Slave Island, Colombo 02",2,American,False
+Bakery,Bakery,New Delhi,Uttam Nagar,1,Street Food,False
+North Indian,North Indian,New Delhi,Pitampura,1,Street Food,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,Hauz Khas,1,Ice Cream,True
+"Bakery, Mithai",Bakery,New Delhi,Civil Lines,1,Mughlai,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Defence Colony,2,Burger,False
+"Italian, Pizza, Bakery",Italian,New Delhi,Delhi University-GTB Nagar,2,Cafe,False
+"Desserts, Bakery",Desserts,New Delhi,"Radisson Blu, Paschim Vihar",4,Finger Food,False
+"North Indian, Chinese",North Indian,Noida,Greater Noida,1,Ice Cream,False
+Biryani,Biryani,Gurgaon,Sohna Road,2,Burger,False
+"Bakery, Fast Food",Bakery,Gurgaon,"DLF Galleria, DLF Phase 4",2,Burger,False
+North Indian,North Indian,New Delhi,Dilshad Garden,1,South Indian,False
+"North Indian, South Indian, Chinese",North Indian,Faridabad,Sector 43,1,Raw Meats,False
+"Continental, North Indian, Chinese",Continental,New Delhi,Rajouri Garden,3,Continental,True
+"Italian, Pizza, Fast Food",Italian,New Delhi,Lajpat Nagar 2,2,Burger,False
+"South Indian, North Indian",South Indian,New Delhi,Vasant Kunj,2,Burger,False
+"Bakery, Desserts",Bakery,Noida,Sector 45,1,Ice Cream,False
+North Indian,North Indian,New Delhi,Paharganj,1,Street Food,False
+"Mexican, American, Tex-Mex, Burger",Mexican,Hyderabad,Hitech City,3,Japanese,False
+"Japanese, Sushi",Japanese,Chatham-Kent,Chatham-Kent,2,Asian,False
+Biryani,Biryani,Gurgaon,"Sushant Shopping Arcade, Sushant Lok, Gurgaon",2,American,False
+"Continental, American, Asian, North Indian",Continental,New Delhi,Hauz Khas Village,3,Continental,True
+"Bakery, Desserts, Fast Food",Bakery,New Delhi,Khan Market,1,Ice Cream,False
+"South Indian, North Indian, Chinese",South Indian,Gurgaon,Sohna Road,2,Healthy Food,False
+"North Indian, Chinese",North Indian,New Delhi,Geeta Colony,2,Seafood,False
+"Fast Food, Street Food",Fast Food,New Delhi,PVR Anupam Complex,1,Fast Food,True
+"Street Food, North Indian",Street Food,Gurgaon,Udyog Vihar,2,Pizza,False
+Pizza,Pizza,Mumbai,Malad West,2,American,False
+Cafe,Cafe,New Delhi,Punjabi Bagh,2,Healthy Food,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,New Delhi,Pitampura,1,Street Food,False
+"North Indian, Continental, Chinese, Fast Food",North Indian,New Delhi,New Friends Colony,4,Finger Food,False
+North Indian,North Indian,New Delhi,Chandni Chowk,1,Street Food,False
+Fast Food,Fast Food,New Delhi,Anand Vihar,1,Bakery,False
+Continental,Continental,New Delhi,"The Claridges, Aurangzeb Road",4,European,False
+Fast Food,Fast Food,New Delhi,Rajinder Nagar,1,Raw Meats,False
+Mughlai,Mughlai,New Delhi,Tagore Garden,1,Fast Food,False
+Ice Cream,Ice Cream,Gurgaon,"Ansal Plaza Mall, Palam Vihar",1,Desserts,False
+"Cafe, Fast Food",Cafe,New Delhi,"The India Mall, New Friends Colony",1,South Indian,False
+"Bakery, Desserts",Bakery,Gurgaon,Palam Vihar,1,Street Food,False
+"Continental, American",Continental,Noida,Sector 58,2,Cafe,False
+"South Indian, Chinese",South Indian,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+"Chinese, Fast Food",Chinese,New Delhi,Naraina,1,Desserts,False
+North Indian,North Indian,Faridabad,Sector 16,1,Ice Cream,False
+"Continental, American, Seafood",Continental,Colombo,"Kollupitiya, Colombo 03",3,American,False
+"South Indian, Chinese",South Indian,New Delhi,Paschim Vihar,1,Raw Meats,False
+North Indian,North Indian,New Delhi,Palam,1,Street Food,False
+North Indian,North Indian,Gurgaon,"Unitech Cyber Park, Sector 39, Gurgaon",2,Cafe,False
+"Pizza, Fast Food",Pizza,Gurgaon,Old Railway Road,1,Bakery,False
+"North Indian, Chinese, South Indian",North Indian,New Delhi,East of Kailash,2,Mughlai,False
+"North Indian, Mughlai",North Indian,New Delhi,Rajinder Nagar,2,Burger,False
+"North Indian, Chinese",North Indian,New Delhi,Janakpuri,2,Italian,False
+North Indian,North Indian,New Delhi,GTB Nagar,2,Cafe,False
+"Finger Food, Italian, North Indian",Finger Food,New Delhi,"Epicuria Food Mall, Nehru Place",3,European,False
+"Italian, Mediterranean, Continental, North Indian",Italian,New Delhi,Connaught Place,3,Finger Food,False
+"North Indian, Chinese, Continental",North Indian,Gurgaon,Sector 45,2,Mughlai,False
+Chinese,Chinese,Guwahati,Ulubari,3,Continental,False
+"American, Burger",American,Dubuque,Dubuque,2,American,True
+"North Indian, Chinese, South Indian, Mithai",North Indian,Noida,Sector 72,2,Mughlai,False
+Fast Food,Fast Food,New Delhi,Rohini,1,Street Food,False
+"North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Desserts, Mithai",North Indian,New Delhi,Rajouri Garden,2,Burger,False
+"American, BBQ, Steak",American,Davenport,Davenport,2,American,True
+"North Indian, Fast Food",North Indian,Faridabad,Sector 21,1,Street Food,False
+Mexican,Mexican,Athens,Athens,1,Mexican,True
+"Pizza, Fast Food",Pizza,New Delhi,Defence Colony,2,Cafe,False
+"South Indian, North Indian, Chinese",South Indian,New Delhi,Ashok Vihar Phase 2,2,North Indian,False
+"Chinese, Fast Food",Chinese,New Delhi,Munirka,1,Raw Meats,False
+"Cafe, Italian",Cafe,New Delhi,PVR Anupam Complex,3,American,False
+"Burger, Fast Food",Burger,New Delhi,PVR Anupam Complex,2,American,False
+North Indian,North Indian,New Delhi,Qutab Institutional Area,1,Street Food,False
+"Fast Food, Mughlai, Armenian",Fast Food,New Delhi,R K Puram,1,South Indian,False
+North Indian,North Indian,New Delhi,Lajpat Nagar 1,1,Mithai,False
+North Indian,North Indian,Gurgaon,Udyog Vihar,1,Desserts,False
+"American, Fast Food",American,Allahabad,Civil Lines,3,Italian,False
+"North Indian, Biryani, Chinese, Fast Food",North Indian,New Delhi,Kamla Nagar,2,Mughlai,False
+"Continental, North Indian, Chinese, Asian",Continental,New Delhi,Rajouri Garden,3,Continental,True
+Chinese,Chinese,New Delhi,Alaknanda,1,Raw Meats,False
+"Bakery, Desserts",Bakery,Faridabad,Sector 37,1,Mithai,False
+Bakery,Bakery,Gurgaon,Sushant Lok,1,Desserts,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,New Delhi,Hauz Khas,1,South Indian,False
+"Mughlai, Chinese",Mughlai,New Delhi,Dilshad Garden,1,South Indian,False
+"Bakery, Desserts, Fast Food",Bakery,New Delhi,Vasant Vihar,1,Bakery,True
+"Pizza, Sandwich, Vegetarian",Pizza,Macon,Warner Robins,2,Mexican,False
+"Chinese, South Indian, North Indian",Chinese,New Delhi,Anand Vihar,2,Bakery,False
+"Cafe, Continental, Italian, Fast Food",Cafe,New Delhi,Satyaniketan,2,Cafe,True
+North Indian,North Indian,New Delhi,Lajpat Nagar 1,1,Burger,False
+"Raw Meats, Fast Food",Raw Meats,Faridabad,Sector 37,1,Mithai,False
+"Chinese, North Indian",Chinese,New Delhi,Tagore Garden,1,Fast Food,False
+"Bakery, Desserts",Bakery,New Delhi,IP Extension,2,Pizza,False
+Cafe,Cafe,Puducherry,White Town,2,Desserts,False
+"Japanese, Steak, Sushi",Japanese,Dubuque,Dubuque,3,American,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,New Delhi,Mukherjee Nagar,1,Beverages,False
+"Chinese, Thai",Chinese,New Delhi,Vasant Kunj,2,Burger,False
+"Bakery, Fast Food",Bakery,New Delhi,Malviya Nagar,1,Raw Meats,False
+South Indian,South Indian,Noida,Brahmaputra Shopping Complex,1,Bakery,False
+"Bakery, Fast Food",Bakery,New Delhi,Vivek Vihar,1,Bakery,True
+"North Indian, Continental",North Indian,New Delhi,Connaught Place,3,Finger Food,False
+Fast Food,Fast Food,New Delhi,Janakpuri,1,Ice Cream,False
+Finger Food,Finger Food,New Delhi,"MGM Club, Daryaganj",4,Finger Food,True
+"Pizza, Fast Food",Pizza,New Delhi,Palam,2,Pizza,True
+Desserts,Desserts,Noida,"Logix City Centre, Sector 32, Noida",1,Beverages,False
+North Indian,North Indian,Faridabad,Sector 16,1,Ice Cream,False
+Mughlai,Mughlai,New Delhi,Adchini,1,South Indian,False
+"Mughlai, Italian, Finger Food, Middle Eastern",Mughlai,New Delhi,"The Park, Connaught Place",4,Continental,False
+Italian,Italian,New Delhi,"The Imperial, Janpath",4,Finger Food,False
+Beverages,Beverages,New Delhi,"Worldmark 1, Aerocity",1,Ice Cream,False
+"American, Mexican",American,Singapore,"Robertson Quay, Singapore River",4,Finger Food,False
+"Mughlai, North Indian",Mughlai,New Delhi,Rajouri Garden,2,Healthy Food,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Mayur Vihar Phase 1,1,Bakery,False
+"Chinese, Fast Food, North Indian",Chinese,Gurgaon,Sector 23,1,Biryani,False
+Chinese,Chinese,Noida,Sector 37,2,Healthy Food,False
+"North Indian, Chinese",North Indian,New Delhi,Laxmi Nagar,1,Street Food,False
+Chinese,Chinese,New Delhi,Mahipalpur,1,Mithai,False
+North Indian,North Indian,Gurgaon,Palam Vihar,1,Street Food,False
+"Mughlai, North Indian, Chinese",Mughlai,New Delhi,Gujranwala Town,3,Finger Food,False
+Cafe,Cafe,Gurgaon,Sector 31,1,Raw Meats,False
+Chinese,Chinese,New Delhi,Kamla Nagar,1,Ice Cream,False
+"North Indian, Japanese, Italian",North Indian,Hyderabad,Holiday Inn Express & Suites,3,Finger Food,False
+"North Indian, Fast Food, Bihari",North Indian,New Delhi,Janpath,2,Finger Food,False
+"Ice Cream, Desserts",Ice Cream,Noida,"Logix Cyber Park, Sector 62, Noida",1,Beverages,False
+North Indian,North Indian,New Delhi,Tagore Garden,1,Fast Food,False
+"North Indian, Chinese",North Indian,Noida,"Harsha Mall, Greater Noida",2,Burger,False
+Bakery,Bakery,New Delhi,Delhi University-GTB Nagar,1,Ice Cream,False
+"North Indian, Continental, Italian",North Indian,Noida,"Ansal Plaza Mall, Greater Noida",2,Cafe,False
+Street Food,Street Food,New Delhi,Lajpat Nagar 1,1,Mithai,False
+Street Food,Street Food,New Delhi,Mukherjee Nagar,1,Beverages,False
+"Italian, Pizza, Seafood",Italian,Pensacola,Pensacola,3,Seafood,False
+"North Indian, Chinese, Fast Food",North Indian,Gurgaon,Sohna Road,3,Italian,False
+"Burger, Desserts, Fast Food",Burger,New Delhi,Green Park,2,Biryani,False
+North Indian,North Indian,New Delhi,Palam,1,Street Food,False
+"North Indian, South Indian, Chinese, Fast Food, Bakery, Mithai",North Indian,New Delhi,Kailash Colony,1,Raw Meats,False
+"Continental, North Indian, Chinese",Continental,New Delhi,Paharganj,3,Finger Food,False
+"Mithai, Street Food",Mithai,New Delhi,Vasundhara Enclave,1,Biryani,False
+Beverages,Beverages,Noida,Sector 132,1,Beverages,True
+"North Indian, Chinese",North Indian,New Delhi,Vivek Vihar,1,Bakery,False
+"Mithai, Street Food, Fast Food",Mithai,New Delhi,GTB Nagar,1,Raw Meats,False
+"Raw Meats, Fast Food, North Indian",Raw Meats,New Delhi,Naraina,1,Desserts,False
+"North Indian, Chinese, Mughlai",North Indian,Noida,Sector 51,2,Mexican,False
+Bakery,Bakery,Gurgaon,Sector 8,1,Ice Cream,False
+Biryani,Biryani,Gurgaon,Palam Vihar,1,Street Food,False
+"Bakery, Desserts",Bakery,New Delhi,Prashant Vihar,2,Beverages,False
+"North Indian, Mithai, Street Food",North Indian,New Delhi,Lodhi Colony,2,American,False
+"North Indian, Mughlai, Asian, Continental",North Indian,Gurgaon,Sector 29,4,Continental,False
+South Indian,South Indian,New Delhi,"Dilli Haat, INA",1,Desserts,False
+North Indian,North Indian,New Delhi,Rajinder Nagar,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,Noida,Greater Noida,2,Pizza,False
+"Chinese, Fast Food",Chinese,New Delhi,Rajinder Nagar,1,Ice Cream,False
+Chinese,Chinese,Gurgaon,Sector 56,1,Raw Meats,False
+"Bakery, Desserts",Bakery,New Delhi,New Friends Colony,2,Pizza,False
+"Mithai, Street Food",Mithai,New Delhi,R K Puram,1,South Indian,False
+"North Indian, Healthy Food, Rajasthani",North Indian,Noida,Sector 50,1,Raw Meats,False
+Bakery,Bakery,New Delhi,East of Kailash,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,New Delhi,Naraina,2,South Indian,False
+Chinese,Chinese,Gurgaon,Old Railway Road,1,Bakery,False
+"Seafood, Bar Food, Brazilian",Seafood,Rio de Janeiro,Barra da Tijuca,4,Beverages,False
+"Chinese, North Indian, Italian",Chinese,New Delhi,Anand Vihar,2,Healthy Food,False
+"North Indian, Continental, Mughlai",North Indian,New Delhi,Preet Vihar,2,Finger Food,False
+"Seafood, Continental, Goan, Asian, Andhra",Seafood,Hyderabad,Gachibowli,3,Finger Food,False
+Bakery,Bakery,New Delhi,Ashok Vihar Phase 3,2,North Indian,False
+"Mughlai, North Indian",Mughlai,Dehradun,Jakhan,4,Finger Food,False
+Italian,Italian,New Delhi,Greater Kailash (GK) 2,4,European,False
+North Indian,North Indian,New Delhi,Safdarjung,1,Raw Meats,False
+"Italian, Continental",Italian,New Delhi,Hauz Khas,3,Finger Food,False
+"Continental, American, Tex-Mex, North Indian",Continental,New Delhi,Connaught Place,3,Asian,False
+Cafe,Cafe,Sharjah,University City,4,Finger Food,False
+Chinese,Chinese,New Delhi,Najafgarh,1,Mithai,False
+Chinese,Chinese,Abu Dhabi,"World Trade Center Mall, Al Markaziya",4,Indian,False
+"Bakery, Fast Food",Bakery,New Delhi,Dilshad Garden,1,South Indian,False
+North Indian,North Indian,New Delhi,Tagore Garden,2,Pizza,False
+"American, Hawaiian",American,Rest of Hawaii,Kihei,1,Seafood,False
+"Continental, Mexican",Continental,New Delhi,Vijay Nagar,2,Cafe,False
+Street Food,Street Food,New Delhi,Krishna Nagar,1,Raw Meats,False
+"North Indian, Continental, Fast Food",North Indian,New Delhi,Connaught Place,3,Finger Food,False
+"Cafe, North Indian, Chinese",Cafe,Agra,Tajganj,1,Desserts,False
+Bakery,Bakery,New Delhi,MG Road,2,Mughlai,False
+"North Indian, Mughlai, Chinese, Bakery",North Indian,New Delhi,Tughlakabad Institutional Area,2,Pizza,False
+"Japanese, Sushi",Japanese,New Delhi,"The Taj Mahal Hotel, Mansingh Road",4,Seafood,False
+"Mithai, South Indian, Chinese, Street Food",Mithai,Faridabad,Sector 43,1,Raw Meats,False
+South Indian,South Indian,New Delhi,Moti Nagar,1,Ice Cream,False
+Mexican,Mexican,Fernley,Fernley,1,Mithai,False
+"North Indian, Fast Food, Chinese",North Indian,New Delhi,Janakpuri,2,Italian,False
+Seafood,Seafood,Colombo,"Old Dutch Hospital, Fort",4,American,False
+Cafe,Cafe,New Delhi,Janpath,1,Street Food,False
+Fast Food,Fast Food,Birmingham,Alum Rock,1,Indian,False
+"European, Italian",European,New Delhi,Safdarjung,4,Finger Food,False
+"North Indian, Mithai",North Indian,New Delhi,Laxmi Nagar,1,Street Food,False
+Mithai,Mithai,New Delhi,Chandni Chowk,1,Street Food,False
+"North Indian, Continental, European",North Indian,New Delhi,Connaught Place,4,European,False
+"Japanese, Sushi",Japanese,Valdosta,Valdosta,2,Mexican,False
+"American, Pizza",American,Pocatello,Pocatello,2,Asian,False
+Bakery,Bakery,Noida,"MSX Mall, Greater Noida",1,Ice Cream,False
+American,American,Rest of Hawaii,Waikiki,2,Asian,False
+"North Indian, Chinese, South Indian",North Indian,New Delhi,Sainik Farms,1,Mithai,False
+"Chinese, Japanese, Korean, Asian",Chinese,New Delhi,Civil Lines,3,Finger Food,False
+North Indian,North Indian,New Delhi,Uttam Nagar,1,Street Food,False
+Mithai,Mithai,New Delhi,Najafgarh,1,Mithai,True
+"Continental, Chinese, Thai, Mughlai, North Indian",Continental,Gurgaon,Sector 29,3,Continental,True
+Cafe,Cafe,Nagpur,Civil Lines,2,Cafe,True
+"North Indian, Mughlai, Chinese, Continental",North Indian,Lucknow,Lalbagh,3,Italian,False
+South Indian,South Indian,Gurgaon,DLF Phase 3,1,Beverages,False
+"Chinese, Thai, North Indian",Chinese,New Delhi,"Basant Lok Market, Vasant Vihar",3,Finger Food,False
+"North Indian, Fast Food",North Indian,New Delhi,Laxmi Nagar,2,Pizza,False
+"Fast Food, North Indian",Fast Food,New Delhi,Naraina,1,Desserts,False
+North Indian,North Indian,New Delhi,Qutab Institutional Area,1,Street Food,False
+Mithai,Mithai,New Delhi,Vivek Vihar,1,Bakery,False
+Beverages,Beverages,New Delhi,GTB Nagar,1,Raw Meats,False
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,Mahipalpur,2,North Indian,True
+"North Indian, Fast Food",North Indian,Noida,Sector 18,1,Fast Food,False
+Chinese,Chinese,Noida,Sector 62,1,Raw Meats,False
+"Bakery, Chinese, Fast Food",Bakery,New Delhi,Shalimar Bagh,1,Ice Cream,False
+Desserts,Desserts,Auckland,Fort Street,1,Desserts,True
+"Desserts, Ice Cream",Desserts,New Delhi,Kalkaji,1,Street Food,False
+Pizza,Pizza,Faridabad,Sector 15,2,Bakery,False
+North Indian,North Indian,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+"Bakery, Desserts",Bakery,Gurgaon,Sector 31,2,Healthy Food,False
+"North Indian, Continental, Asian",North Indian,Gurgaon,"Leisure Inn, Sector 14, Gurgaon",3,Finger Food,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Rajouri Garden,3,Continental,False
+"Chinese, North Indian",Chinese,Gurgaon,Palam Vihar,2,Pizza,False
+Bakery,Bakery,New Delhi,IP Extension,1,Desserts,False
+"North Indian, Mughlai",North Indian,New Delhi,Kalkaji,2,Biryani,False
+"North Indian, Mughlai",North Indian,Gurgaon,DLF Phase 1,2,Biryani,False
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,Jangpura,2,Healthy Food,False
+Pizza,Pizza,Noida,Sector 41,2,Biryani,False
+"Cafe, Mughlai, North Indian",Cafe,Aurangabad,Nyay Nagar,2,Pizza,False
+"Cafe, Chinese, Fast Food",Cafe,New Delhi,Satyaniketan,2,Cafe,True
+Chinese,Chinese,Noida,Sector 37,1,Fast Food,False
+"North Indian, Mughlai",North Indian,New Delhi,Jor Bagh,1,Mithai,False
+"North Indian, South Indian, Chinese, Fast Food",North Indian,New Delhi,Krishna Nagar,1,Raw Meats,False
+Chinese,Chinese,Gurgaon,"MGF Metropolitan Mall, MG Road",2,Pizza,False
+"Asian, Breakfast, Hawaiian",Asian,Rest of Hawaii,Lahaina,1,Seafood,False
+Chinese,Chinese,Kanpur,"Rave 3, Tilak Nagar",4,Finger Food,False
+Bakery,Bakery,New Delhi,Vikaspuri,1,Raw Meats,False
+Street Food,Street Food,New Delhi,Uttam Nagar,1,Street Food,True
+Chinese,Chinese,New Delhi,"Jaypee Vasant Continental, Vasant Vihar",4,Finger Food,False
+"North Indian, Continental, Chinese",North Indian,New Delhi,Kailash Colony,3,Continental,False
+Fast Food,Fast Food,New Delhi,East of Kailash,1,Raw Meats,False
+Bakery,Bakery,New Delhi,Panchsheel Park,2,Pizza,False
+"North Indian, Mughlai",North Indian,New Delhi,Alaknanda,2,Mughlai,False
+"Chinese, Thai",Chinese,Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",3,American,False
+"European, Italian",European,New Delhi,"Sangam Courtyard, RK Puram",4,Asian,False
+Chinese,Chinese,New Delhi,Connaught Place,3,Finger Food,False
+North Indian,North Indian,Noida,Sector 2,1,Bakery,False
+Mughlai,Mughlai,Gurgaon,DLF Phase 1,2,Biryani,False
+North Indian,North Indian,New Delhi,Mayur Vihar Phase 3,1,Street Food,False
+North Indian,North Indian,New Delhi,East of Kailash,1,Raw Meats,False
+North Indian,North Indian,New Delhi,Daryaganj,1,Mughlai,False
+"European, Chinese",European,Ludhiana,"Silver Arc Mall, Gurdev Nagar",3,Italian,False
+"Pizza, Fast Food",Pizza,New Delhi,"Pacific Mall, Tagore Garden",2,Burger,False
+"North Indian, Chinese, South Indian, Fast Food",North Indian,Faridabad,Suraj Kund,1,Mithai,False
+"North Indian, Italian, Continental, Chinese",North Indian,New Delhi,Hauz Khas Village,3,American,False
+Street Food,Street Food,New Delhi,Lodhi Road,1,Mithai,False
+North Indian,North Indian,New Delhi,Shahdara,1,Mithai,False
+"American, Tex-Mex",American,New Delhi,"DLF Place Mall, Saket",4,Finger Food,False
+Cafe,Cafe,New Delhi,Lodhi Colony,1,Mithai,False
+"Chinese, North Indian",Chinese,New Delhi,Subhash Nagar,1,Raw Meats,False
+Indian,Indian,Doha,Umm Ghuwailina,4,Indian,True
+"Continental, Italian, North Indian, Chinese, Lebanese",Continental,New Delhi,Vasant Kunj,2,Asian,False
+Chinese,Chinese,New Delhi,Dilshad Garden,1,Healthy Food,False
+"Mithai, Street Food",Mithai,New Delhi,Vasundhara Enclave,1,Biryani,False
+"Chinese, North Indian",Chinese,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+Mughlai,Mughlai,Faridabad,NIT,2,Cafe,False
+Biryani,Biryani,New Delhi,IP Extension,1,Mithai,False
+"North Indian, Chinese, Mughlai, Fast Food",North Indian,Noida,Sector 62,2,Biryani,False
+"Bakery, Mithai",Bakery,Noida,Sector 50,1,Raw Meats,False
+"Italian, Continental, Chinese",Italian,Hyderabad,Jubilee Hills,3,Continental,False
+"Mithai, Street Food",Mithai,Faridabad,Sector 37,1,Mithai,True
+"Burger, Seafood, Steak",Burger,Sioux City,Le Mars,3,Asian,False
+"Healthy Food, Salad",Healthy Food,New Delhi,"Select Citywalk Mall, Saket",2,Desserts,False
+"North Indian, Mughlai, Chinese",North Indian,Gurgaon,Sushant Lok,2,Healthy Food,False
+"Cafe, Italian, Desserts, Fast Food, Chinese, Tea",Cafe,Mumbai,"Versova, Andheri West",3,Italian,False
+"North Indian, Seafood, Bengali",North Indian,Noida,Sector 41,2,Healthy Food,False
+"Biryani, North Indian",Biryani,New Delhi,Chittaranjan Park,2,Mughlai,False
+Mughlai,Mughlai,New Delhi,Krishna Nagar,1,Raw Meats,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,East of Kailash,1,Raw Meats,False
+"Finger Food, Continental, North Indian, Chinese",Finger Food,New Delhi,Connaught Place,3,Finger Food,True
+"North Indian, Chinese",North Indian,Noida,Sector 132,1,Beverages,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Ashok Vihar Phase 1,2,North Indian,True
+"North Indian, Continental, South Indian, Chinese, Thai, Asian",North Indian,Lucknow,Renaissance Lucknow Hotel,4,Finger Food,False
+"North Indian, Mughlai",North Indian,Noida,Sector 18,1,Fast Food,False
+"Bakery, Fast Food",Bakery,New Delhi,Chittaranjan Park,1,Beverages,False
+Fast Food,Fast Food,Ranchi,Kanka,2,Pizza,False
+"North Indian, Continental, Italian",North Indian,New Delhi,Connaught Place,3,Finger Food,False
+"Beverages, Fast Food",Beverages,New Delhi,Asaf Ali Road,1,Fast Food,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Pitampura,1,Ice Cream,False
+"North Indian, Mughlai",North Indian,New Delhi,"Community Centre, New Friends Colony",2,Cafe,False
+"North Indian, Chinese, Continental, Italian",North Indian,New Delhi,"City Square Mall, Rajouri Garden",3,Continental,False
+"Mithai, North Indian, Chinese, Street Food",Mithai,Gurgaon,"Shopping Mall, DLF Phase 1",1,Desserts,False
+"North Indian, Chinese",North Indian,New Delhi,Mayur Vihar Phase 1,2,Mexican,False
+"Continental, European, North Indian",Continental,New Delhi,Naraina,3,Finger Food,False
+Finger Food,Finger Food,New Delhi,"MGM Club, Daryaganj",4,Finger Food,True
+Fast Food,Fast Food,New Delhi,JNU,1,Ice Cream,False
+"Pizza, Fast Food",Pizza,New Delhi,Connaught Place,2,Burger,False
+"Pizza, Fast Food",Pizza,New Delhi,PVR Anupam Complex,2,American,False
+Bakery,Bakery,New Delhi,Karol Bagh,1,Ice Cream,False
+North Indian,North Indian,New Delhi,Palam,1,Street Food,False
+"North Indian, South Indian",North Indian,New Delhi,Narela,1,Fast Food,False
+Finger Food,Finger Food,New Delhi,"Hotel The Royal Plaza, Janpath",4,Seafood,False
+"Ice Cream, Desserts, Beverages",Ice Cream,New Delhi,Rajouri Garden,1,Ice Cream,True
+North Indian,North Indian,New Delhi,Nehru Place,1,South Indian,False
+"Pizza, Italian",Pizza,Noida,Sector 18,2,Healthy Food,False
+North Indian,North Indian,Noida,Sector 72,1,Raw Meats,False
+"Cafe, Continental",Cafe,New Delhi,"DLF Emporio Mall, Vasant Kunj",3,American,False
+"Bakery, Desserts, Cafe",Bakery,Bangalore,Indiranagar,2,Pizza,False
+Chinese,Chinese,New Delhi,Chanakyapuri,2,Chinese,True
+Chinese,Chinese,New Delhi,Greater Kailash (GK) 2,3,European,False
+"Bakery, Desserts",Bakery,Noida,Sector 33,1,Street Food,False
+South Indian,South Indian,Noida,Sector 20,1,Raw Meats,False
+"Mithai, Bakery",Mithai,New Delhi,Vivek Vihar,1,Bakery,False
+"Chinese, Fast Food",Chinese,Faridabad,Sector 16,1,Ice Cream,False
+"North Indian, Chinese",North Indian,New Delhi,Kirti Nagar,2,North Indian,True
+"Chinese, Thai, Malaysian, Vietnamese, Korean, Indonesian, Asian",Chinese,Puducherry,"The Promenade, White Town",4,Continental,False
+"North Indian, Chinese",North Indian,New Delhi,Nehru Place,1,South Indian,False
+"Chinese, North Indian, Fast Food",Chinese,Noida,Sector 60,1,Bakery,False
+"Fast Food, North Indian",Fast Food,New Delhi,Safdarjung,2,Pizza,False
+"Continental, North Indian, Fast Food, Street Food, South Indian",Continental,New Delhi,Aerocity,2,Cafe,False
+"Asian, Chinese, Thai, Vietnamese",Asian,New Delhi,Shahpur Jat,3,Cafe,False
+Fast Food,Fast Food,New Delhi,Anand Vihar,1,Bakery,False
+"Bakery, Desserts",Bakery,Gurgaon,"Vyapar Kendra, Sushant Lok",1,Mithai,False
+"North Indian, Chinese",North Indian,New Delhi,Mukherjee Nagar,1,Beverages,False
+Mexican,Mexican,New Delhi,Green Park,2,Pizza,False
+North Indian,North Indian,Faridabad,Sector 31,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,New Delhi,Rohini,2,Biryani,False
+North Indian,North Indian,New Delhi,Sainik Farms,1,Mithai,False
+Street Food,Street Food,New Delhi,Karampura,1,Mithai,False
+North Indian,North Indian,New Delhi,East of Kailash,1,Raw Meats,False
+"Italian, Continental",Italian,Jakarta,"Grand Indonesia Mall, Thamrin",3,Seafood,False
+"Chinese, Fast Food",Chinese,Gurgaon,"Vyapar Kendra, Palam Vihar",1,Mithai,False
+Biryani,Biryani,New Delhi,Zakir Nagar,1,Mughlai,False
+"North Indian, Continental, Chinese",North Indian,New Delhi,Greater Kailash (GK) 2,3,European,False
+"North Indian, Biryani",North Indian,Noida,Sector 37,2,Healthy Food,False
+"Cafe, Continental, Italian, Street Food",Cafe,Indore,YN Road,3,Seafood,False
+"North Indian, Chinese, Continental, Italian",North Indian,Aurangabad,Akashwani,3,Italian,False
+"Cafe, Italian, Continental",Cafe,New Delhi,Satyaniketan,2,Cafe,True
+South Indian,South Indian,Faridabad,Dayal Bagh,1,Mithai,False
+Chinese,Chinese,New Delhi,Satyaniketan,2,Cafe,False
+"American, Seafood, Steak",American,Boise,Boise,4,European,False
+"Chinese, Fast Food",Chinese,New Delhi,Karol Bagh,1,Ice Cream,False
+"North Indian, Mughlai",North Indian,New Delhi,Pitampura,2,Pizza,False
+Cafe,Cafe,New Delhi,Shanti Niketan Marg,1,Fast Food,False
+Cafe,Cafe,New Delhi,Green Park,1,Beverages,False
+"Chinese, North Eastern",Chinese,New Delhi,Narela,1,Fast Food,False
+"Cafe, Chinese, Thai, North Indian, Continental",Cafe,Lucknow,Hazratganj,3,Italian,False
+"North Indian, South Indian, Chinese",North Indian,New Delhi,Vasundhara Enclave,1,Biryani,False
+"Chinese, Fast Food",Chinese,New Delhi,Mayur Vihar Phase 2,1,Bakery,False
+"North Indian, Chinese",North Indian,Gurgaon,Sector 31,2,Asian,False
+"North Indian, Hyderabadi, Kashmiri, Chinese",North Indian,New Delhi,Defence Colony,3,Continental,False
+North Indian,North Indian,Gurgaon,Sector 45,1,Raw Meats,False
+Cafe,Cafe,Faridabad,Badkal Lake,1,Mithai,False
+North Indian,North Indian,New Delhi,Nangloi,1,Mithai,False
+Fast Food,Fast Food,New Delhi,Satyaniketan,1,Desserts,False
+"European, Continental",European,New Delhi,"The Imperial, Janpath",4,Finger Food,False
+"Cafe, Bakery",Cafe,New Delhi,Anand Vihar,3,Italian,False
+"North Indian, Chinese, Continental, Italian, Burger",North Indian,Chandigarh,Sector 35,3,Mexican,False
+"Finger Food, European, North Indian",Finger Food,New Delhi,Connaught Place,3,Finger Food,True
+"Mughlai, Fast Food",Mughlai,New Delhi,Shalimar Bagh,2,Pizza,False
+"Chinese, Fast Food",Chinese,Noida,Sector 27,1,Street Food,False
+"American, Fast Food, Salad, Healthy Food",American,Gurgaon,"MGF Metropolitan Mall, MG Road",2,Burger,False
+Beverages,Beverages,New Delhi,"V3S Mall, Laxmi Nagar",1,Fast Food,False
+"Chinese, Fast Food",Chinese,New Delhi,Hauz Khas,1,South Indian,False
+"Indian, Mughlai, South Indian, Biryani",Indian,Sharjah,Abu Shagara,4,Indian,True
+Indian,Indian,Cedar Rapids/Iowa City,Cedar Rapids,2,American,False
+Mughlai,Mughlai,New Delhi,Shahdara,1,Mithai,False
+Chinese,Chinese,Gurgaon,"DLF Galleria, DLF Phase 4",2,Burger,False
+"South Indian, Fast Food, Chinese",South Indian,New Delhi,Tilak Nagar,1,Street Food,False
+"North Indian, Chinese, Mughlai",North Indian,New Delhi,Vivek Vihar,2,Pizza,False
+"Chinese, Thai",Chinese,New Delhi,Lodhi Road,2,Asian,False
+"Asian, Chinese, Thai",Asian,New Delhi,Greater Kailash (GK) 1,2,Healthy Food,False
+Fast Food,Fast Food,New Delhi,Tagore Garden,1,Fast Food,True
+"Chinese, Mughlai",Chinese,New Delhi,Kirti Nagar,2,Pizza,False
+"North Indian, Chinese",North Indian,Noida,"Mosaic Hotels, Sector 18, Noida ",3,Continental,False
+"North Indian, Chinese",North Indian,Noida,Sector 50,3,Italian,False
+Bakery,Bakery,Gurgaon,Sector 23,1,Biryani,False
+"Ice Cream, Desserts",Ice Cream,Noida,"DLF Mall of India, Sector 18,  Noida",2,Burger,False
+"Bakery, Desserts",Bakery,New Delhi,Sarita Vihar,1,Mithai,False
+Continental,Continental,New Delhi,"Le Meridien, Janpath",4,Finger Food,False
+"Bakery, Fast Food",Bakery,Faridabad,Sector 21,1,Street Food,False
+"North Indian, Continental, Chinese",North Indian,Faridabad,"Vibe by The LaLit Traveller, Mathura Road",3,Finger Food,False
+"Bakery, Desserts",Bakery,New Delhi,Saket,2,Pizza,False
+"North Indian, Chinese",North Indian,Mangalore,Kankanady,4,Finger Food,False
+"Fast Food, Beverages",Fast Food,New Delhi,Okhla Phase 2,1,Bakery,False
+"Cafe, Continental",Cafe,New Delhi,Kirti Nagar,2,Pizza,False
+North Indian,North Indian,Noida,Sector 22,1,Mughlai,False
+"Bakery, Fast Food",Bakery,New Delhi,Rajinder Nagar,2,Burger,False
+"Biryani, North Indian",Biryani,Gurgaon,"Raheja Mall, Sohna Road",2,Burger,False
+"Chinese, Continental",Chinese,Kochi,Kacheripady,2,Seafood,False
+"North Indian, Mughlai, Chinese",North Indian,Faridabad,Sector 17,2,Cafe,False
+Ice Cream,Ice Cream,Noida,Sector 38,1,Beverages,False
+North Indian,North Indian,New Delhi,Uttam Nagar,1,Street Food,False
+Fast Food,Fast Food,New Delhi,Rohini,1,Street Food,False
+"Mithai, Street Food",Mithai,New Delhi,Kalkaji,1,Street Food,False
+"Burger, Desserts, Fast Food",Burger,Gurgaon,"Huda City Centre Metro Station, Sector 29, Gurgaon",2,Italian,False
+"Cafe, North Indian, Fast Food",Cafe,New Delhi,Anand Vihar,2,Bakery,False
+"North Indian, Mughlai",North Indian,New Delhi,"Epicuria Food Mall, Nehru Place",2,American,False
+"Pizza, Fast Food",Pizza,New Delhi,Shahdara,1,Mithai,False
+"Asian, Thai, Chinese",Asian,Gurgaon,Sector 29,3,Mexican,False
+Cafe,Cafe,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+"Pizza, Fast Food",Pizza,Noida,Sector 27,2,Italian,False
+"North Indian, Chinese",North Indian,New Delhi,Dilshad Garden,2,Pizza,False
+"Continental, North Indian, Thai, Chinese",Continental,Nagpur,Dhantoli,3,Seafood,False
+"North Indian, Chinese",North Indian,New Delhi,Prashant Vihar,1,Beverages,False
+"North Indian, Mediterranean, Continental",North Indian,New Delhi,Karkardooma,3,Finger Food,False
+North Indian,North Indian,New Delhi,Vasundhara Enclave,1,Biryani,False
+"Biryani, Mughlai",Biryani,New Delhi,Kirti Nagar,1,Street Food,False
+"Chinese, Fast Food",Chinese,New Delhi,Hauz Khas,1,South Indian,False
+"North Indian, Chinese",North Indian,Gurgaon,Golf Course Road,2,Healthy Food,False
+"North Indian, Mughlai",North Indian,Gurgaon,Old Railway Road,2,Burger,False
+"Italian, Pizza, Sandwich",Italian,Augusta,Augusta,2,Mexican,False
+"Fast Food, Chinese, North Indian",Fast Food,New Delhi,Punjabi Bagh,2,Continental,False
+"Bakery, Desserts, Fast Food",Bakery,New Delhi,Vasant Kunj,1,Burger,False
+"Mithai, Street Food",Mithai,Gurgaon,"Vyapar Kendra, Sushant Lok",1,Mithai,True
+"Italian, Mexican, Chinese",Italian,Bhopal,TT Nagar,3,Finger Food,False
+"North Indian, Mexican, Italian, Continental",North Indian,New Delhi,Connaught Place,3,Finger Food,False
+"Ice Cream, Beverages",Ice Cream,New Delhi,"Pacific Mall, Tagore Garden",1,Beverages,False
+"Asian, European",Asian,Gurgaon,Sector 29,3,Mexican,False
+"North Indian, South Indian",North Indian,New Delhi,East of Kailash,1,Raw Meats,False
+North Indian,North Indian,New Delhi,Satyaniketan,1,Desserts,False
+"Fast Food, Burger",Fast Food,New Delhi,Daryaganj,2,Mughlai,False
+Fast Food,Fast Food,New Delhi,Adchini,1,South Indian,False
+Cafe,Cafe,Ankara,K۱z۱lay,3,Cafe,True
+"Italian, American, Pizza",Italian,Bangalore,Indiranagar,4,European,False
+"North Indian, Chinese",North Indian,Gurgaon,Sushant Lok,2,Healthy Food,False
+Cafe,Cafe,Gurgaon,Sector 14,1,Beverages,False
+North Indian,North Indian,Noida,Sector 71,1,Bakery,False
+Mexican,Mexican,Davenport,Davenport,2,American,False
+"Healthy Food, European, Continental, Salad",Healthy Food,Gurgaon,DLF Phase 4,2,Healthy Food,True
+"North Indian, Mughlai, Awadhi",North Indian,New Delhi,Naraina,1,Desserts,False
+"North Indian, South Indian, Gujarati, Rajasthani",North Indian,Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",2,American,False
+"Mithai, Street Food",Mithai,New Delhi,Palam,1,Street Food,False
+"Desserts, Bakery",Desserts,New Delhi,Hauz Khas,2,American,False
+"North Indian, South Indian, Chinese",North Indian,Ranchi,Kanka,2,Pizza,False
+North Indian,North Indian,New Delhi,Paschim Vihar,2,Pizza,False
+"Japanese, Chinese, Asian, Malaysian, Thai, Vietnamese",Japanese,Gurgaon,Golf Course Road,3,Healthy Food,False
+"Chinese, Healthy Food",Chinese,New Delhi,Greater Kailash (GK) 1,1,Desserts,False
+Cafe,Cafe,New Delhi,"Select Citywalk Mall, Saket",2,Desserts,False
+North Indian,North Indian,New Delhi,Shahdara,1,Mithai,False
+Street Food,Street Food,New Delhi,Nangloi,1,Mithai,False
+Chinese,Chinese,New Delhi,Geeta Colony,1,Street Food,False
+North Indian,North Indian,New Delhi,Nehru Place,1,South Indian,False
+"Italian, Pizza, Sandwich",Italian,Gainesville,Helen,1,American,False
+South Indian,South Indian,Faridabad,Sector 46,1,Raw Meats,False
+"Burger, Desserts, Fast Food",Burger,New Delhi,"Basant Lok Market, Vasant Vihar",2,Finger Food,False
+"Japanese, Thai, Italian, Asian",Japanese,Gurgaon,"Two Horizon Center, Golf Course Road",4,Finger Food,False
+"North Indian, Mughlai",North Indian,Noida,Sector 93,2,Burger,False
+Chinese,Chinese,New Delhi,Tilak Nagar,1,Street Food,False
+"Chinese, North Indian",Chinese,New Delhi,Chanakyapuri,2,Chinese,True
+"Cafe, Grill",Cafe,Pretoria,"Menlyn Shopping Centre, Menlyn",4,Continental,False
+Fast Food,Fast Food,Faridabad,Sector 15,1,Bakery,False
+"North Indian, Chinese",North Indian,Dehradun,Chukkuwala,3,Seafood,False
+"North Indian, Chinese, Mughlai",North Indian,New Delhi,Janpath,2,Cafe,False
+"North Indian, Continental",North Indian,New Delhi,"Maidens Hotel, Civil Lines",4,Finger Food,False
+"North Indian, Chinese",North Indian,New Delhi,"Ginger Hotel, Vivek Vihar",3,Finger Food,False
+"North Indian, Mughlai, Chinese",North Indian,Faridabad,Sector 10,2,North Indian,True
+"Cafe, Kiwi",Cafe,Wellington City,Lyall Bay,3,American,False
+North Indian,North Indian,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,Faridabad,Charmwood Village,1,Fast Food,False
+"Continental, Chinese",Continental,Noida,Sector 44,2,North Indian,False
+Fast Food,Fast Food,New Delhi,Kalkaji,1,Ice Cream,False
+"North Indian, Chinese, South Indian, Fast Food",North Indian,New Delhi,Anand Vihar,1,Bakery,False
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,Paharganj,1,Street Food,False
+"Bakery, Desserts, Fast Food",Bakery,New Delhi,Ashok Vihar Phase 1,1,Raw Meats,False
+"Cafe, Fast Food, American",Cafe,Vizag,Kirlampudi Layout,3,Italian,False
+South Indian,South Indian,New Delhi,Uttam Nagar,1,Street Food,False
+"Street Food, Bakery",Street Food,New Delhi,Vasundhara Enclave,1,Biryani,False
+"Pizza, Bar Food",Pizza,Columbus,Columbus,2,American,False
+"North Indian, Mughlai",North Indian,New Delhi,Connaught Place,3,Finger Food,False
+North Indian,North Indian,Gurgaon,Sector 56,1,Raw Meats,False
+Bakery,Bakery,Gurgaon,DLF Phase 3,1,Healthy Food,False
+"North Indian, Chinese",North Indian,Gurgaon,Sector 7,2,Burger,False
+North Indian,North Indian,New Delhi,Kailash Colony,2,Healthy Food,False
+"Indian, Continental",Indian,Dubai,Dubai Media City,3,Indian,True
+Street Food,Street Food,New Delhi,Moti Nagar,1,Ice Cream,False
+"Pizza, Fast Food",Pizza,Noida,Sector 41,2,Healthy Food,False
+"Chinese, North Indian",Chinese,Noida,Sector 59,1,Bakery,False
+"Fast Food, Burger",Fast Food,New Delhi,Rohini,2,Biryani,False
+Chinese,Chinese,New Delhi,Jangpura,1,Healthy Food,False
+Healthy Food,Healthy Food,New Delhi,Vivek Vihar,1,Bakery,False
+Ice Cream,Ice Cream,New Delhi,Hauz Khas,1,Ice Cream,True
+Beverages,Beverages,Faridabad,Sector 15,1,Bakery,False
+Cafe,Cafe,Gurgaon,DLF Phase 3,1,Beverages,False
+"North Indian, Continental",North Indian,New Delhi,IP Extension,3,Finger Food,False
+"Cafe, Continental, Italian",Cafe,New Delhi,Vijay Nagar,2,Cafe,True
+Street Food,Street Food,New Delhi,Kirti Nagar,1,Raw Meats,False
+American,American,Abu Dhabi,"Abu Dhabi Mall, Tourist Club Area  (Al Zahiyah)",4,Indian,False
+"American, Greek, Seafood",American,Macon,Warner Robins,2,Mexican,False
+"North Indian, Mughlai",North Indian,Noida,Sector 72,2,Mughlai,False
+"North Indian, Chinese, Continental",North Indian,New Delhi,"Star City Mall, Mayur Vihar Phase 1",3,Finger Food,False
+"North Indian, Chinese",North Indian,New Delhi,Pitampura,1,Ice Cream,False
+"Italian, Chinese, Mexican, Thai, North Indian",Italian,Jaipur,C Scheme,3,Italian,True
+Mithai,Mithai,New Delhi,Chandni Chowk,1,Street Food,False
+North Indian,North Indian,New Delhi,East of Kailash,1,Biryani,False
+"Fast Food, Desserts, Beverages",Fast Food,New Delhi,Pitampura,1,Street Food,False
+"Mithai, Street Food",Mithai,New Delhi,Shahdara,1,Mithai,True
+"North Indian, Chinese",North Indian,Noida,Sector 58,1,Mithai,False
+"Pizza, Fast Food",Pizza,New Delhi,Lodhi Road,2,Asian,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,New Delhi,Mayapuri Phase 2,1,Biryani,False
+"North Indian, Fast Food",North Indian,New Delhi,Lawrence Road,2,Pizza,False
+Cafe,Cafe,New Delhi,"MGM Club, Daryaganj",3,Finger Food,False
+"North Indian, South Indian, Chinese",North Indian,New Delhi,Paschim Vihar,1,Raw Meats,False
+"American, Burger, Pizza, Cafe",American,Dubuque,Dubuque,2,American,True
+"Chinese, Fast Food",Chinese,Noida,"Jaipuria Plaza, Sector 26, Noida",1,Biryani,False
+Fast Food,Fast Food,New Delhi,Karol Bagh,1,Ice Cream,False
+Bakery,Bakery,New Delhi,Vasundhara Enclave,1,Biryani,False
+North Indian,North Indian,New Delhi,Uttam Nagar,1,Street Food,False
+Cafe,Cafe,Noida,Sector 62,1,Raw Meats,False
+Fast Food,Fast Food,New Delhi,"Living Style Mall, Jasola",1,Ice Cream,False
+Desserts,Desserts,New Delhi,"DLF Promenade Mall, Vasant Kunj",1,Desserts,True
+"Chinese, Thai, Seafood",Chinese,New Delhi,Green Park,2,Biryani,False
+"North Indian, Chinese",North Indian,New Delhi,Kailash Colony,1,Raw Meats,False
+"Mughlai, North Indian",Mughlai,New Delhi,R K Puram,2,Biryani,False
+"North Indian, Fast Food, Chinese",North Indian,New Delhi,Delhi University-GTB Nagar,1,Beverages,False
+"North Indian, Mughlai, Chinese, Seafood",North Indian,Gurgaon,"Cross Point Mall, DLF Phase 4",3,Finger Food,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Malviya Nagar,2,Healthy Food,False
+"Continental, Fast Food, Italian",Continental,Noida,Sector 132,3,Finger Food,False
+"North Indian, Chinese",North Indian,New Delhi,Nehru Place,3,Finger Food,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Saket,2,Pizza,False
+"North Indian, Chinese",North Indian,New Delhi,Subhash Nagar,1,Raw Meats,False
+"Mughlai, North Indian",Mughlai,New Delhi,Tagore Garden,1,Fast Food,False
+"South Indian, Fast Food, North Indian, Chinese",South Indian,New Delhi,Najafgarh,1,Mithai,False
+North Indian,North Indian,New Delhi,Mukherjee Nagar,1,Beverages,False
+"North Indian, Italian, Finger Food",North Indian,Mangalore,Lalbagh,2,Seafood,False
+"Fast Food, Chinese, Italian",Fast Food,Faridabad,Sector 10,2,North Indian,False
+South Indian,South Indian,Gurgaon,MG Road,1,Bakery,False
+"Pizza, Italian",Pizza,New Delhi,Connaught Place,2,Burger,False
+South Indian,South Indian,Noida,Sector 132,1,Beverages,False
+North Indian,North Indian,New Delhi,Karol Bagh,1,South Indian,False
+"Italian, Continental, European, Cafe",Italian,New Delhi,Kailash Colony,3,Seafood,False
+Cafe,Cafe,New Delhi,Safdarjung,2,Pizza,False
+"North Indian, Chinese, Continental",North Indian,New Delhi,"Best Western Taurus Hotel, Mahipalpur",3,Finger Food,False
+"Desserts, Ice Cream",Desserts,New Delhi,"V3S Mall, Laxmi Nagar",1,Fast Food,False
+North Indian,North Indian,Gurgaon,DLF Phase 3,2,Healthy Food,False
+Ice Cream,Ice Cream,Noida,"Logix City Centre, Sector 32, Noida",1,Beverages,False
+Chinese,Chinese,New Delhi,Kalkaji,1,Street Food,False
+"Chinese, Fast Food",Chinese,New Delhi,Palam,1,Street Food,False
+Desserts,Desserts,New Delhi,Punjabi Bagh,1,Ice Cream,False
+"North Indian, South Indian, Chinese, Mithai",North Indian,New Delhi,Kalkaji,1,Street Food,False
+North Indian,North Indian,New Delhi,Daryaganj,1,Mughlai,False
+"North Indian, Chinese",North Indian,New Delhi,Nangloi,1,Mithai,False
+"North Indian, Chinese",North Indian,New Delhi,Janpath,2,Cafe,False
+"Street Food, Fast Food",Street Food,New Delhi,Gujranwala Town,1,Beverages,False
+"Italian, French, Bakery, Cafe",Italian,Singapore,"Kay Siang Road, Tanglin",3,American,False
+Pizza,Pizza,Ankara,Y۱ld۱zevler,2,Cafe,False
+"Chinese, Thai",Chinese,Noida,"The Great India Place, Sector 38",3,Italian,False
+North Indian,North Indian,New Delhi,Vasundhara Enclave,1,Biryani,False
+"North Indian, Chinese, Continental",North Indian,Ahmedabad,Ghatlodia,3,Continental,False
+"Chinese, Thai, Seafood",Chinese,New Delhi,Greater Kailash (GK) 2,3,European,False
+"North Indian, Chinese",North Indian,Noida,Sector 132,2,Pizza,False
+Mughlai,Mughlai,New Delhi,Yusuf Sarai,1,Raw Meats,False
+"Fast Food, American",Fast Food,Manchester,Oxford Road,1,Indian,False
+"North Indian, Mughlai",North Indian,New Delhi,Gujranwala Town,2,Mughlai,False
+"Cafe, Tea",Cafe,Noida,"Gardens Galleria, Sector 38 Noida",1,Ice Cream,False
+"Finger Food, Italian",Finger Food,New Delhi,"Hotel The Royal Plaza, Janpath",4,Seafood,False
+"Chinese, Fast Food",Chinese,New Delhi,Moti Bagh,1,Ice Cream,False
+North Indian,North Indian,New Delhi,Defence Colony,1,Raw Meats,False
+"North Indian, Street Food",North Indian,New Delhi,Saket,1,Beverages,False
+Fast Food,Fast Food,New Delhi,Lado Sarai,1,South Indian,False
+North Indian,North Indian,New Delhi,Kalkaji,1,Ice Cream,False
+"Chinese, Fast Food",Chinese,New Delhi,Vivek Vihar,1,Bakery,False
+"North Indian, Chinese",North Indian,New Delhi,Jail Road,2,Biryani,False
+Bakery,Bakery,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",2,Healthy Food,False
+"Cafe, Tea",Cafe,Bhubaneshwar,Sahid Nagar,2,Asian,False
+Cafe,Cafe,Bhubaneshwar,"BMC Bhawani Mall, Sahid Nagar",2,Asian,False
+Mughlai,Mughlai,New Delhi,Jangpura,1,Raw Meats,False
+Chinese,Chinese,New Delhi,Dilshad Garden,1,South Indian,False
+Bakery,Bakery,Gurgaon,Sushant Lok,2,Healthy Food,False
+"Cafe, Pizza, Italian",Cafe,New Delhi,Khan Market,3,Italian,False
+"American, Caribbean, Seafood",American,Augusta,Augusta,3,Mexican,False
+North Indian,North Indian,New Delhi,Yusuf Sarai,1,Raw Meats,False
+Mughlai,Mughlai,Gurgaon,Sector 14,2,Healthy Food,False
+North Indian,North Indian,Faridabad,Sector 28,1,Raw Meats,False
+"Mithai, North Indian, South Indian, Street Food",Mithai,New Delhi,Alaknanda,1,Raw Meats,False
+Desserts,Desserts,New Delhi,Chandni Chowk,1,Street Food,False
+North Indian,North Indian,New Delhi,Najafgarh,1,Mithai,False
+"Italian, Pizza, Fast Food",Italian,Gurgaon,"Omaxe Celebration Mall, Sohna Road, Gurgaon",2,Healthy Food,False
+North Indian,North Indian,Faridabad,NIT,1,Mithai,False
+North Indian,North Indian,New Delhi,Mayur Vihar Phase 3,1,Street Food,False
+"Bakery, Desserts",Bakery,New Delhi,Punjabi Bagh,1,Ice Cream,False
+"Burger, Fast Food",Burger,Gurgaon,DLF Phase 5,1,Healthy Food,False
+North Indian,North Indian,Vadodara,Panchvati,3,Italian,False
+Bakery,Bakery,New Delhi,Vasundhara Enclave,1,Biryani,False
+Bakery,Bakery,New Delhi,Vasant Vihar,1,Bakery,True
+"Cafe, North Indian, Chinese",Cafe,New Delhi,Safdarjung,3,European,False
+Fast Food,Fast Food,New Delhi,Anand Vihar,1,Bakery,False
+Street Food,Street Food,New Delhi,Mayur Vihar Phase 2,1,Street Food,True
+Beverages,Beverages,Gurgaon,Sector 17,1,Raw Meats,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,Defence Colony,1,Ice Cream,True
+"Raw Meats, North Indian, Fast Food",Raw Meats,Gurgaon,Old Railway Road,1,Bakery,False
+"North Indian, Mughlai",North Indian,New Delhi,Defence Colony,2,Cafe,False
+"Continental, Italian, North Indian",Continental,New Delhi,Saket,4,Finger Food,False
+"Desserts, Middle Eastern, Turkish",Desserts,New Delhi,Lodhi Colony,1,Ice Cream,False
+"Healthy Food, Cafe, Desserts, Italian, Bakery",Healthy Food,Gurgaon,Sector 30,2,Cafe,False
+Street Food,Street Food,New Delhi,Tilak Nagar,1,Street Food,True
+"North Indian, Chinese, Italian",North Indian,Indore,"Sayaji Hotel, Vijay Nagar",4,Finger Food,False
+Fast Food,Fast Food,New Delhi,MG Road,1,Raw Meats,False
+"North Indian, Chinese",North Indian,New Delhi,JNU,2,Pizza,False
+Fast Food,Fast Food,New Delhi,Chittaranjan Park,1,Beverages,False
+"Burger, Desserts, Sandwich",Burger,Lakeview,Lakeview,1,Mithai,False
+Ice Cream,Ice Cream,New Delhi,Alaknanda,1,Raw Meats,False
+Mexican,Mexican,Waterloo,Waterloo,2,Japanese,False
+North Indian,North Indian,New Delhi,"DLF Promenade Mall, Vasant Kunj",2,Desserts,False
+"Cafe, Bakery, Tea, Vegetarian",Cafe,Cape Town,De Waterkant,3,Burger,False
+"North Indian, Mughlai",North Indian,New Delhi,"Vasant Square Mall, Vasant Kunj",2,American,False
+"Continental, Chinese, North Indian",Continental,New Delhi,Munirka,1,Raw Meats,False
+"Biryani, North Indian",Biryani,New Delhi,Rajinder Nagar,2,Mughlai,False
+Street Food,Street Food,New Delhi,Khan Market,1,Mughlai,False
+"Continental, North Indian, Italian",Continental,New Delhi,Greater Kailash (GK) 2,4,European,False
+"North Indian, Fast Food, South Indian",North Indian,New Delhi,Krishna Nagar,2,Pizza,False
+"Desserts, Ice Cream",Desserts,New Delhi,Rajinder Nagar,1,Raw Meats,False
+Chinese,Chinese,New Delhi,"The Claridges, Aurangzeb Road",4,European,False
+"Bakery, Desserts, Fast Food, Street Food, Chinese, Beverages",Bakery,New Delhi,Rajouri Garden,1,Beverages,False
+"North Indian, Chinese, Fast Food",North Indian,Faridabad,Sector 15,2,Healthy Food,False
+"Burger, Seafood",Burger,Augusta,Evans,2,Mexican,False
+Cafe,Cafe,New Delhi,Vikaspuri,2,Pizza,False
+"Cafe, Bakery",Cafe,Edinburgh,Fountainbridge,3,Indian,False
+"North Indian, Italian, Parsi, Asian, Kerala",North Indian,Gurgaon,Sector 29,3,Continental,False
+"North Indian, Chinese",North Indian,New Delhi,R K Puram,1,Biryani,False
+"Bakery, Desserts, Fast Food",Bakery,New Delhi,Defence Colony,1,Ice Cream,False
+"Chinese, Fast Food",Chinese,New Delhi,Laxmi Nagar,1,Street Food,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Janakpuri,3,Finger Food,False
+"Continental, North Indian",Continental,New Delhi,Pitampura,2,Pizza,False
+"Italian, Pizza, Fast Food",Italian,New Delhi,Paharganj,2,North Indian,False
+"South Indian, North Indian, Chinese, Continental",South Indian,Allahabad,Tagore Town,2,Indian,False
+South Indian,South Indian,New Delhi,Tagore Garden,1,Fast Food,False
+Bakery,Bakery,New Delhi,Pitampura,1,Street Food,False
+"Bakery, Desserts",Bakery,New Delhi,Defence Colony,1,Ice Cream,False
+North Indian,North Indian,New Delhi,Krishna Nagar,2,Pizza,False
+North Indian,North Indian,New Delhi,Bhikaji Cama Place,1,South Indian,False
+"American, Italian, North Indian, European, Thai",American,New Delhi,Janpath,3,Finger Food,False
+"Seafood, Filipino, Asian, European",Seafood,Pasay City,"SM by the Bay, Mall of Asia Complex, Pasay City",4,Asian,False
+"Italian, Chinese, Continental, Thai, Mediterranean, Lebanese",Italian,New Delhi,Malviya Nagar,2,Healthy Food,False
+"Mithai, Street Food",Mithai,New Delhi,Munirka,1,Raw Meats,False
+"Chinese, Fast Food",Chinese,New Delhi,Mayur Vihar Phase 3,1,Street Food,False
+Ice Cream,Ice Cream,New Delhi,"JMD Kohinoor Mall, Greater Kailash",1,Fast Food,False
+"North Indian, Chinese",North Indian,New Delhi,Munirka,2,Chinese,False
+"North Indian, Mughlai",North Indian,Gurgaon,Sector 56,2,North Indian,True
+"Pizza, Fast Food",Pizza,New Delhi,Palam,2,Pizza,True
+Chinese,Chinese,Noida,Sector 61,1,Bakery,False
+"North Indian, Fast Food",North Indian,New Delhi,Connaught Place,2,Burger,False
+"Fast Food, Burger",Fast Food,Noida,"The Great India Place, Sector 38",2,Burger,False
+"Indian, Persian",Indian,Pocatello,Pocatello,2,Asian,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,New Delhi,R K Puram,1,South Indian,False
+Fast Food,Fast Food,Gurgaon,Udyog Vihar,1,Desserts,False
+"North Indian, Mughlai",North Indian,Noida,Sector 18,3,Italian,False
+"Bakery, Fast Food",Bakery,New Delhi,IP Extension,1,Desserts,False
+"North Indian, Chinese, Continental",North Indian,Gurgaon,DLF Phase 2,2,Biryani,False
+Street Food,Street Food,Gurgaon,"Sushant Shopping Arcade, Sushant Lok, Gurgaon",1,South Indian,False
+"Chinese, Thai, Asian",Chinese,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",3,Healthy Food,False
+"Chinese, Tibetan, Fast Food",Chinese,New Delhi,Safdarjung,2,Pizza,False
+Cafe,Cafe,Noida,Sector 132,2,Pizza,False
+"North Indian, Mughlai",North Indian,Gurgaon,"Ambience Mall, Gurgaon",4,Finger Food,False
+"Fast Food, Street Food, Beverages",Fast Food,Gurgaon,DLF Phase 3,1,Beverages,False
+Mughlai,Mughlai,New Delhi,Jangpura,1,Raw Meats,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Mayur Vihar Phase 1,2,Mexican,False
+North Indian,North Indian,New Delhi,Delhi University-GTB Nagar,1,Beverages,False
+Bakery,Bakery,Faridabad,Sector 10,1,Ice Cream,False
+Fast Food,Fast Food,New Delhi,Anand Vihar,2,Bakery,False
+"Chinese, Continental, Mexican",Chinese,New Delhi,Laxmi Nagar,2,Pizza,False
+Chinese,Chinese,New Delhi,Safdarjung,2,Pizza,False
+"Fast Food, Beverages",Fast Food,New Delhi,Netaji Subhash Place,1,Fast Food,True
+"North Indian, Chinese",North Indian,New Delhi,Karol Bagh,2,South Indian,False
+"American, Burger",American,Boise,Boise,2,American,True
+"Desserts, Fast Food",Desserts,Kanpur,Mall Road,2,Indian,False
+Chinese,Chinese,Waterloo,Waterloo,1,Japanese,False
+"Mughlai, North Indian",Mughlai,New Delhi,Lodhi Colony,3,Asian,False
+"Italian, Continental, Cafe",Italian,New Delhi,Anand Lok,3,Italian,True
+"Mithai, Street Food",Mithai,New Delhi,Dilshad Garden,1,South Indian,False
+Bakery,Bakery,New Delhi,Munirka,1,Raw Meats,False
+"North Indian, Mughlai, Chinese",North Indian,Noida,Sector 18,3,Italian,False
+"South Indian, Chinese, Fast Food",South Indian,New Delhi,Chander Nagar,1,Street Food,False
+"South Indian, North Indian, Chinese",South Indian,New Delhi,Preet Vihar,2,Chinese,False
+Bakery,Bakery,Noida,Sector 62,1,Raw Meats,False
+"Italian, North Indian, Desserts, Continental",Italian,Surat,City Light,3,Italian,True
+"North Indian, Fast Food",North Indian,New Delhi,Pitampura,2,Pizza,False
+Mughlai,Mughlai,New Delhi,Jama Masjid,1,Mughlai,True
+Chinese,Chinese,New Delhi,Yusuf Sarai,2,Asian,False
+"Chinese, Fast Food",Chinese,New Delhi,Satyaniketan,1,Desserts,False
+Chinese,Chinese,Albany,Albany,1,Asian,False
+South Indian,South Indian,New Delhi,Rajinder Nagar,1,Raw Meats,False
+Healthy Food,Healthy Food,New Delhi,East of Kailash,1,Raw Meats,False
+"North Indian, Chinese, South Indian, Street Food, Mithai",North Indian,New Delhi,IP Extension,1,Desserts,False
+Healthy Food,Healthy Food,Noida,Sector 62,1,Biryani,False
+"Continental, Italian",Continental,New Delhi,Hauz Khas Village,4,European,False
+"North Indian, Chinese",North Indian,New Delhi,Jangpura,2,Healthy Food,False
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,"District Centre, Janakpuri",1,Mexican,False
+"North Indian, Chinese, Italian, Continental",North Indian,Gurgaon,"Country Inn & Suites, Sohna Road",3,Finger Food,False
+Fast Food,Fast Food,New Delhi,Hauz Khas,1,South Indian,False
+Chinese,Chinese,New Delhi,Hauz Khas,1,Ice Cream,False
+Cafe,Cafe,New Delhi,"V3S Mall, Laxmi Nagar",1,Fast Food,False
+"Cafe, Tea",Cafe,New Delhi,"Palate of Delhi, Chanakyapuri",1,Burger,False
+"Street Food, Fast Food, North Indian",Street Food,Gurgaon,"DLF Galleria, DLF Phase 4",1,Burger,False
+Cafe,Cafe,Dehradun,Karanpur,3,Seafood,False
+Bakery,Bakery,New Delhi,Jama Masjid,1,Mughlai,False
+"Fast Food, Pizza",Fast Food,New Delhi,East of Kailash,2,Biryani,False
+"Italian, Mexican, Lebanese, Continental",Italian,New Delhi,Jasola,2,Italian,True
+Bakery,Bakery,New Delhi,Mayur Vihar Phase 1,1,Street Food,False
+"American, Burger",American,Johannesburg,Parkhurst,4,Burger,False
+Mithai,Mithai,New Delhi,Vasundhara Enclave,1,Biryani,False
+"Cafe, Chinese",Cafe,Dehradun,Malsi,3,Seafood,False
+"North Indian, Mughlai",North Indian,New Delhi,Safdarjung,2,Pizza,False
+"American, Burger",American,Augusta,Augusta,2,Mexican,False
+North Indian,North Indian,New Delhi,Chittaranjan Park,1,Fast Food,False
+North Indian,North Indian,New Delhi,Najafgarh,1,Mithai,False
+"Chinese, Bakery",Chinese,New Delhi,Punjabi Bagh,1,Desserts,False
+Fast Food,Fast Food,Noida,Sector 72,1,Raw Meats,False
+"North Indian, Chinese",North Indian,Indore,Vijay Nagar,4,Finger Food,False
+"North Indian, Mughlai",North Indian,Noida,Sector 41,2,Healthy Food,False
+"Italian, Fast Food, South Indian",Italian,New Delhi,Nangloi,1,Mithai,False
+"North Indian, Chinese, Mughlai",North Indian,Gurgaon,Sector 31,1,Raw Meats,False
+"Bakery, Fast Food",Bakery,New Delhi,South Extension 2,1,Beverages,False
+"North Indian, Chinese",North Indian,New Delhi,Rajinder Nagar,2,Biryani,False
+"Ice Cream, Desserts",Ice Cream,Auckland,Britomart,1,Desserts,False
+"North Indian, Chinese",North Indian,New Delhi,Satyaniketan,3,Cafe,False
+North Indian,North Indian,New Delhi,East of Kailash,1,Raw Meats,False
+"Cafe, Italian, European, Bakery",Cafe,Gurgaon,"DLF South Point Mall, Golf Course Road",3,Finger Food,False
+"Chinese, Fast Food, North Indian",Chinese,New Delhi,South Extension 1,2,Pizza,False
+Asian,Asian,Gurgaon,"Sushant Shopping Arcade, Sushant Lok, Gurgaon",2,American,False
+"Fast Food, North Indian",Fast Food,Gurgaon,Sector 31,1,Raw Meats,False
+"North Indian, Chinese, South Indian",North Indian,Gurgaon,Sector 14,2,Healthy Food,False
+North Indian,North Indian,Noida,"Jaypee Greens Golf & Spa Resort, Surajpur",4,Finger Food,False
+"North Indian, Chinese, Continental",North Indian,New Delhi,Paharganj,2,Finger Food,False
+"North Indian, Chinese",North Indian,New Delhi,Kamla Nagar,2,Mughlai,False
+"North Indian, Chinese",North Indian,New Delhi,"Basant Lok Market, Vasant Vihar",3,Finger Food,False
+"Asian, Chinese",Asian,Waterloo,Cedar Falls,2,American,False
+"Cafe, Bakery",Cafe,New Delhi,Defence Colony,2,Cafe,True
+Fast Food,Fast Food,Faridabad,Sector 12,1,Mithai,False
+"North Indian, Chinese",North Indian,New Delhi,Gujranwala Town,2,Mughlai,False
+North Indian,North Indian,New Delhi,Mukherjee Nagar,1,Beverages,False
+Bakery,Bakery,New Delhi,"Jaypee Vasant Continental, Vasant Vihar",2,Pizza,False
+Mithai,Mithai,New Delhi,Krishna Nagar,1,Raw Meats,False
+"North Indian, South Indian, Chinese",North Indian,New Delhi,Rohini,2,Pizza,False
+Cafe,Cafe,Wellington City,Te Aro,3,Asian,False
+"American, Burger",American,Boise,Boise,1,Mexican,False
+"North Indian, Chinese, Continental",North Indian,Noida,Sector 1,1,Bakery,False
+Mithai,Mithai,Gurgaon,Palam Vihar,2,Pizza,False
+"North Indian, Mithai, South Indian, Street Food, Fast Food",North Indian,New Delhi,Mahipalpur,1,Mithai,False
+Fast Food,Fast Food,New Delhi,Netaji Subhash Place,1,Fast Food,True
+"Mithai, South Indian",Mithai,New Delhi,Model Town 2,1,Street Food,False
+"Raw Meats, Fast Food",Raw Meats,New Delhi,South Extension 2,1,Beverages,False
+"North Indian, Chinese, Mughlai",North Indian,Faridabad,Suraj Kund,2,Italian,False
+"American, Italian, North Indian, Chinese",American,Noida,Sector 41,2,Biryani,False
+"North Indian, Mughlai, Nepalese, Tibetan, Korean",North Indian,New Delhi,Lajpat Nagar 2,3,Finger Food,False
+"North Indian, Mughlai, South Indian",North Indian,New Delhi,Jangpura,2,Mughlai,False
+Beverages,Beverages,New Delhi,"DLF Promenade Mall, Vasant Kunj",1,Desserts,False
+"Fast Food, Street Food",Fast Food,New Delhi,Defence Colony,1,Raw Meats,False
+"Mughlai, North Indian, Chinese",Mughlai,New Delhi,Defence Colony,2,Burger,False
+North Indian,North Indian,Noida,Sector 22,1,Mughlai,False
+"Bakery, Fast Food",Bakery,New Delhi,Vasant Vihar,1,Bakery,True
+"North Indian, Chinese",North Indian,Noida,Sector 62,1,Raw Meats,False
+"North Indian, Mughlai",North Indian,New Delhi,Jangpura,2,Healthy Food,False
+"Chinese, Fast Food",Chinese,New Delhi,Naraina,1,Desserts,False
+"Japanese, Sushi",Japanese,Gurgaon,Sector 29,4,Continental,False
+"Fast Food, North Indian, Chinese",Fast Food,Noida,Sector 62,2,Biryani,False
+"American, Fast Food",American,New Delhi,Khan Market,3,Italian,False
+Italian,Italian,S��o Paulo,Rep�_blica,4,Finger Food,False
+Cafe,Cafe,Gurgaon,"DT City Centre Mall, MG Road",1,Burger,False
+"North Indian, Chinese, Italian, Continental",North Indian,New Delhi,Connaught Place,3,Finger Food,False
+"Chinese, North Indian",Chinese,New Delhi,Narela,1,Fast Food,False
+"North Indian, Mughlai",North Indian,New Delhi,Rajouri Garden,2,Continental,False
+"Italian, Pizza, Fast Food",Italian,New Delhi,Netaji Subhash Place,3,Finger Food,False
+"Biryani, Mughlai",Biryani,Gurgaon,DLF Phase 1,2,Healthy Food,False
+"Seafood, American",Seafood,Doha,"Ghanem Business Center, Fereej Bin Mahmoud",4,Indian,False
+Bakery,Bakery,New Delhi,Chanakyapuri,1,Beverages,False
+"North Indian, Fast Food",North Indian,New Delhi,Mayur Vihar Phase 2,1,Bakery,False
+Desserts,Desserts,New Delhi,Chittaranjan Park,1,Fast Food,False
+"Cafe, Chinese, Fast Food, Italian",Cafe,Nagpur,Civil Lines,2,Cafe,True
+Bakery,Bakery,New Delhi,Shahdara,1,Mithai,False
+"Italian, Continental, Fast Food, North Indian",Italian,New Delhi,"Pacific Mall, Tagore Garden",3,European,False
+"Pizza, Fast Food",Pizza,New Delhi,Krishna Nagar,1,Raw Meats,False
+"European, Italian, Desserts",European,Chennai,Adyar,2,Biryani,False
+Bakery,Bakery,New Delhi,Anand Vihar,1,Bakery,True
+American,American,Davenport,Davenport,2,American,True
+"Chinese, Fast Food",Chinese,New Delhi,INA,1,Desserts,False
+"North Indian, Mughlai",North Indian,New Delhi,"Aditya Mega Mall, Karkardooma",2,Finger Food,False
+"Continental, Kashmiri, Italian, North Indian, Moroccan",Continental,New Delhi,Khan Market,4,European,False
+Desserts,Desserts,New Delhi,East Patel Nagar,1,Healthy Food,False
+"Finger Food, European",Finger Food,New Delhi,"The Imperial, Janpath",4,Finger Food,True
+"Burger, Fast Food",Burger,New Delhi,"Gourmet Hub, Pashim Vihar",2,Pizza,False
+"North Indian, Mughlai, Chinese",North Indian,Noida,Sector 72,2,Mughlai,False
+"North Indian, Chinese",North Indian,New Delhi,Defence Colony,2,Burger,False
+Chinese,Chinese,New Delhi,Naraina,1,Desserts,False
+"North Indian, Mughlai",North Indian,New Delhi,Rajouri Garden,2,Continental,False
+"Pizza, Fast Food",Pizza,New Delhi,Jangpura,2,Healthy Food,False
+"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",North Indian,Gurgaon,"Sahara Mall, MG Road",2,Finger Food,False
+"Cafe, Continental, Chinese",Cafe,Lucknow,Gomti Nagar,2,Cafe,True
+"North Indian, Chinese, South Indian",North Indian,Gurgaon,Udyog Vihar,1,Desserts,False
+"North Indian, Mughlai",North Indian,New Delhi,Gujranwala Town,1,Beverages,False
+"North Indian, Street Food, South Indian, Mithai",North Indian,New Delhi,"Living Style Mall, Jasola",1,Ice Cream,False
+"North Indian, Mithai, Chinese, Street Food",North Indian,Gurgaon,"DLF South Point Mall, Golf Course Road",2,Finger Food,False
+"Bakery, Desserts",Bakery,New Delhi,Safdarjung,1,Raw Meats,False
+Beverages,Beverages,New Delhi,"Unity One Mall, Janakpuri",1,Mithai,False
+"Chinese, North Indian, Mughlai, Continental",Chinese,New Delhi,Connaught Place,3,Italian,False
+"Raw Meats, North Indian, Fast Food",Raw Meats,New Delhi,Rajouri Garden,1,Beverages,False
+North Indian,North Indian,New Delhi,R K Puram,2,Biryani,False
+"Chinese, Thai",Chinese,New Delhi,Vasant Kunj,3,American,False
+Street Food,Street Food,New Delhi,Punjabi Bagh,1,Ice Cream,False
+"Mithai, Street Food, South Indian, Chinese, North Indian",Mithai,Gurgaon,"Vyapar Kendra, Sushant Lok",1,Mithai,True
+Cafe,Cafe,Faridabad,Sector 29,2,Pizza,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,Pitampura,1,Street Food,False
+"North Indian, Italian, Asian, South Indian",North Indian,Ahmedabad,"The Fern, Sola",3,Continental,False
+North Indian,North Indian,New Delhi,Palam,1,Street Food,False
+American,American,Sioux City,Sioux City,1,Asian,False
+North Indian,North Indian,New Delhi,MG Road,1,Raw Meats,False
+"American, Fast Food",American,Sioux City,Sioux City,1,Asian,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Defence Colony,3,Continental,False
+"North Indian, Chinese",North Indian,New Delhi,Uttam Nagar,1,Fast Food,False
+"Fast Food, Beverages",Fast Food,New Delhi,Zakir Nagar,1,Mughlai,False
+"Pizza, Ice Cream",Pizza,New Delhi,Shakarpur,1,South Indian,False
+"North Indian, Fast Food, Continental",North Indian,New Delhi,Greater Kailash (GK) 1,3,European,False
+"Fast Food, North Indian",Fast Food,New Delhi,East Patel Nagar,1,Raw Meats,False
+"Fast Food, North Indian",Fast Food,Noida,Sector 57,1,Fast Food,True
+"Fast Food, North Indian",Fast Food,New Delhi,Malviya Nagar,1,Raw Meats,False
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,Paharganj,1,Street Food,False
+"North Indian, Chinese",North Indian,Noida,"The Great India Place, Sector 38",3,Italian,False
+Continental,Continental,Gurgaon,Sushant Lok,1,Healthy Food,False
+North Indian,North Indian,New Delhi,Geeta Colony,2,Seafood,False
+Fast Food,Fast Food,New Delhi,Mayur Vihar Phase 2,1,Street Food,False
+"Fast Food, Beverages",Fast Food,Noida,Sector 34,1,Mithai,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Karol Bagh,3,European,False
+Chinese,Chinese,Noida,Sector 51,1,Bakery,False
+South Indian,South Indian,New Delhi,Paschim Vihar,1,Raw Meats,False
+Chinese,Chinese,New Delhi,"V3S Mall, Laxmi Nagar",2,Pizza,False
+"Fast Food, North Indian",Fast Food,New Delhi,Okhla Phase 1,1,Bakery,False
+"Chinese, North Indian",Chinese,Noida,Greater Noida,2,Burger,False
+North Indian,North Indian,New Delhi,Palam,1,Street Food,False
+Fast Food,Fast Food,Vizag,Lawsons Bay,2,Burger,False
+Fast Food,Fast Food,New Delhi,Yusuf Sarai,1,Raw Meats,False
+Bakery,Bakery,Noida,Sector 37,2,Healthy Food,False
+"American, Tex-Mex, Italian, Mexican, North Indian",American,New Delhi,Nehru Place,3,Finger Food,False
+"Chinese, Seafood, North Indian, Biryani",Chinese,Kochi,Palarivattom,2,Seafood,False
+Chinese,Chinese,New Delhi,Palam,1,Street Food,False
+North Indian,North Indian,New Delhi,Mukherjee Nagar,1,Beverages,False
+Biryani,Biryani,New Delhi,Kalkaji,2,South Indian,False
+"North Indian, Chinese, Italian",North Indian,Noida,Sector 45,2,Biryani,False
+"Bakery, Desserts, Fast Food",Bakery,New Delhi,Greater Kailash (GK) 2,1,Desserts,False
+"Chinese, Fast Food",Chinese,New Delhi,Satyaniketan,1,Desserts,False
+"Cafe, American, Italian, North Indian, Chinese",Cafe,New Delhi,Vasant Kunj,2,Burger,False
+"South Indian, North Indian, Chinese, Fast Food",South Indian,Gurgaon,Sector 14,1,Beverages,False
+"North Indian, Chinese, Mughlai",North Indian,Gurgaon,MG Road,2,Burger,False
+Mughlai,Mughlai,New Delhi,Pitampura,1,Street Food,False
+"Ice Cream, Desserts",Ice Cream,New Delhi,Defence Colony,1,Ice Cream,True
+Cafe,Cafe,New Delhi,Netaji Subhash Place,1,Fast Food,False
+North Indian,North Indian,New Delhi,R K Puram,1,South Indian,False
+"Mithai, Street Food",Mithai,New Delhi,Kalkaji,1,Street Food,False
+"Mughlai, North Indian",Mughlai,New Delhi,MG Road,1,Raw Meats,False
+North Indian,North Indian,Noida,Sector 58,2,Cafe,False
+"North Indian, Mithai",North Indian,New Delhi,East of Kailash,1,Raw Meats,False
+"North Indian, Chinese",North Indian,New Delhi,IP Extension,1,Mithai,False
+South Indian,South Indian,New Delhi,"Epicuria Food Mall, Nehru Place",2,European,False
+"Fast Food, Chinese, Mithai, Street Food",Fast Food,New Delhi,Paharganj,1,Street Food,False
+"Cafe, Continental, Chinese",Cafe,New Delhi,GTB Nagar,2,Cafe,True
+"Mughlai, North Indian",Mughlai,New Delhi,"V3S Mall, Laxmi Nagar",2,Pizza,False
+North Indian,North Indian,Noida,Sector 44,2,North Indian,True
+"Fast Food, North Indian, Chinese, Desserts, Ice Cream",Fast Food,Noida,Sector 2,3,North Indian,False
+"North Indian, Chinese, Fast Food",North Indian,New Delhi,Shakarpur,1,South Indian,False
+"North Indian, Mughlai, Chinese",North Indian,New Delhi,Hauz Khas,2,American,False
+Bakery,Bakery,New Delhi,Vivek Vihar,1,Bakery,True
+"North Indian, Lebanese, Mexican, Asian, Italian, American, European",North Indian,New Delhi,Khan Market,3,Finger Food,False
+Fast Food,Fast Food,New Delhi,Lawrence Road,1,Mithai,False
+Chinese,Chinese,New Delhi,Hauz Khas,3,American,False
+"Cafe, North Indian, Chinese",Cafe,New Delhi,Pitampura,2,Pizza,False
